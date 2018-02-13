@@ -1,0 +1,150 @@
+# STOCKHOLM 1.0
+#=GF ID NC_031324.ref.mp.1
+
+NC_031324.ref.mp.1 ATGGCGAGAATCCGTGGGCGTATAGGCCCACAACGTGGTGAAACAACCACAAAGATAAAAGATGCTAATATGGCACTTGATCTGCTACGCCGGTCACAAACACCTTCCCCATCCCGGCAAGAGAGCCCCCCCAAGGGCCAGAGAGACCGCCCTCCTCGGACCGCTTCTGAGGTGAAGAAAGTGATGGGGTGGGGTGTTGA
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.1 ACCAGAACAACAGGAAAGCACGGCTAAGGCATGGTGCGACCTCACGCGGGAAGAGAAGGAGGAGATAATGCGCAATAATGAAAAGCTCTTCGACGCTGGAGGGATCACCCCATCAACCTTGCCTAGCACATTTGAGAGGGCCGACCCGGTTGACAGCCCTAGTGAACAACAACCTGTAACATGGTCTGCTAGTGGTGGGG
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.1 TGGATATTGGTGTCAATGATCTGACCACCGTTCGTGGCCCATTTTGGAACATGTGCCCCCTCCCACCACTGGATGCCCGGAACAATGGCCCCGCTAGGGAGCCCCTCATAGGGGACATGATAGAGTTTTATGAAGGCCATATATTCCATTATGCCATCTACATTGGACAAGGTAAGACCATTGGGGTTCACTCACCGCAA
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.1 GCGGCTTTCTCCATACCAAGAATAACCATCCATCCTCTAGTAGCCTGGTGGCGCGTGTGCTACGTCCCAACCAATCAACAGCGCCTCACTTACGATCAGCTTAAAGAACTGGAGAATGAACCATGGCCCTACGCTTCCATCACAAACAATTGTTATGAGTTTTGCTGCAGGGTAATGGCACTTGATGACACATGGCTTGA
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.1 GAGGAGGTTGGTCAGCACCGGAAAATTCAACCACCCCACACAAGATTGGTCACTGGATACCCCAGATTTTCACCAAGATTCGAAGCTTGAGATAGTAAGAGATGCTGTACTATCAGCTATTAATGGCCTTGTGTCACAACCCTTCAAGAACATTCTGTCAAAGATCAAACCATTAAATGTTCTCAATCTTTTGTCAAATT
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.1 GTGATTGGACTTTCATGGGAGTTGTAGAATTGATCGTGCTCCTAGCGGAGTTGTTTGATGTGTTCTGGACTCCACCAGATATCTCAAGTTTCATTGCCTCACTACTACCTGAACTTCACCTGCAG
+#=GC SS_cons       .............................................................................................................................
+//
+# STOCKHOLM 1.0
+#=GF ID NC_031324.ref.mp.2
+
+NC_031324.ref.mp.2 GGCCCAGAAGACCTAGCCAGGGACCTGGTCCCTCTCATTCTAGGTGGCATAGGCCTGGCTATTGGCTTTACAAGAGATAAAGTGACAAAAGTGATGAAGAGCGCCGTCGATGGGCTACGATCGGCAACGCAGCTCGGGCAGTACGGACTGGAAATATTCTCAATCATTAAGAAATATTTCTTTGGTGGGGACCAAACGGA
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.2 GAAGACCTTGCGGGGTATAGAGGATGCAGTGATAGATATGGAGGTGTTGTCCAGCACCAATGTGACACAATTGGTTAAAGATAAGAAGTTGGCCAGAACTTATATGAATGTGCTGGACAACGAGGAGGAAAAAGCAAGGAAACTTTCGGTCCGTAGTGCCGACCCACACATAGTGACCTCAGTCAATAACCTGATATCAC
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.2 GGATATCTATGGCAAGGTCAGCCTTGGCTAAGGCCCAGGCTGAGATGACTTCTCGCCCACGCCCAGTGGTCATAATGATGTGTGGCCCTCCCGGCATCGGAAAAACCAAGGCCGCCGAACACCTGGCCGGCCGATTGGCAAACGAGATCAGACCGGGAGGCAAGGTTGGGCTTGTGCCCCGGGAATCCATAGATCACTGG
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.2 GACGGGTACCATGGCGAGGATGTCTTACTATGGGATGACTATGGCATGTCAAAAATAACAGAGGACTGTAATAAGTTACAAGCTATAGCTGACACTGCACCCCTATCACTTAATTGTGACAGGATAGAGAACAAAGGTATGCAATTTTCCTCTGATGCAATAATTATAACCACTAACGCCCCTGGCCGGGGCCCAGGTGG
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.2 ACAAAGTCCACTGGGSCCCGTGTGCAGGCGAGTGGACTTCTTGGTCTATTGCTCTGCCCCCGAAATTGAGCAAATGAGAAGAACCCATCCTGGTGATGCCAATGCCATCAAGGACCTATACAAAAGGGACTATTCACACCTGAAAATGGAATTAGCCCCGCAAGGTGGCTTTGATAGTCAGGGCAACACACCATTTGGGA
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.2 AGGGCACCATGAAACCCACGACCCTCAATAGGCTGCTCATCCAGGCAACTGCATTAGCTATGGAACGGCAAGATGAGTTCCAACTCCAA
+#=GC SS_cons       .........................................................................................
+//
+# STOCKHOLM 1.0
+#=GF ID NC_031324.ref.mp.3
+
+NC_031324.ref.mp.3 GGGGCTGTTTATAACTTTGATGAAGACAGGGTGTCCGCCTTTACAAGCCTGGCCCGTGCTAATGGCTTGGGGCTCCTGAGCATGGCAACATTGGGTAAAAGACTCAGAAGTGTCAAATCTATGGAGGGCCTGCGCAACGCATTGGTAGGCTACAAAATAGGAGAGTGTGATGTAATCTGGAACACCAGAGTGTACTCAGT
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.3 TAAAAGTGATGGCAGTACTGTCACAATCAAGGAAAAACAAACCCCAACCTCACCTCAATACCAAGCCATTAGCACAGCCACTCTTGCACTCTCTAGGCTGCGGGCCGCTAGAGCCCTTGCCTACGCTTCCTGCCTGCAGAGTGCAGTGCTGTCAATACTTCAAGTTGCTGGCTCTGCCCTGGTGGTGAGCAGGGCCGTGA
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.3 AGCGCATGTTTGGCACGCGCACTGAACAACCTATGTTAGAAGGCAAGCACAAAGAGCACAACTGCAGAGTGCACCGCGCAGAGGCAGCTGGCCATGGCCCTATTGGACATGATGGAATCATTGAACGCTATGGCCTTTGTGAGAGTGAACAAGAAGAAGAAGGCGAGCAAACAGTTGAGTTACCCACTGCCAATAAAGAA
+#=GC SS_cons       ........................................................................................................................................................................................................
+//
+# STOCKHOLM 1.0
+#=GF ID NC_031324.ref.mp.4
+
+NC_031324.ref.mp.4 GGTAAAAACAAGGGCAAAACCAAAAAGGGCCGTGGACGTAAGTCCAATTTTAATGCTTTCTCAAGACGTGGCCTCAGTGATGAAGAGTATGAAGAATACAAAAAGATCAGAGAAGAAAAGAGTGGCAATTATAGTATCCAGGAGTACCTTGAGGATCGTCAACGCTATGAGGAAGAACTTGCTGAAGTGCAGGCTGGTGG
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.4 GGATGGTGGAATTGGTGAGACTGAGGCAGAGATTCGCCATCGGGTTTTCTATAAATCAAAATCCGGCATGAGAAAACAACGCCAAGAGGAACGGCGCCAGTTAGGTCTTGTCAGCGGTTCTGAGATCCGCAAGCGCAAGCCCATAGATTGGACCCCTCCTAAGAATGATTGGTCAGAAGACACCAGAACTGTCAACTATG
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.4 ATGAACACATTAGCTTCGAA
+#=GC SS_cons       ....................
+//
+# STOCKHOLM 1.0
+#=GF ID NC_031324.ref.mp.5
+
+NC_031324.ref.mp.5 GCCCCTCCCTCAATTTGGAGTAGGGTGGTGAAGTTTGGAAGTGGCTGGGGTTTTTGGGTGAGCTCAACAGTGTTCATAACCACAACCCATGTCATACCACCTGGGGCCAAAGAAGTCTTCGGTGAAGACCTCAGCAATGTGGCCATCCACAGGGTTGGTGAGTTCACTCAGTTCCGTTTCTCCAAAAAGATGAGACCTGA
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.5 CCTCACCGGTATGGTCTTAGAAGAAGGTTGCCCAGAGGGAACAGTATGCACCATAATGATCAAGAGGGACTCTGGTGAGCTGCTGCCGCTCGCCGTCCGGATGGGGGCAGTGGCATCTATGAAGATCCAAGGTAAGCTTATGCATGGACAGTCAGGAATGTTACTCACCGGCGCTAATGCCAAAGGCATGGACCTTGGAA
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.5 CCATACCTGGTGATTGTGGGGCACCCTATGTTCACAAGAGGGGAAACGACTGGGTAGTCTGTGGAGTACATGCAGCCGCTACAAAATCAGGCAACACTGTAGTGTGTGCCATACAGGGTGGTGATGGTGAAGCCACACTAGAA
+#=GC SS_cons       ...............................................................................................................................................
+//
+# STOCKHOLM 1.0
+#=GF ID NC_031324.ref.mp.6
+
+NC_031324.ref.mp.6 GGCGGCGGTCAAAATAAGGGCCATTATGCAGGGCACCCGATACTAAGGTATGGGAGTGGCCCCTCGCTATCAACCAAGACTAAATTTTGGAAGTCAACCCCCCAGCCTTTGCCCCCTGGCACATATGAACCAGCTTACCTTGGTGGTAGAGACCCCAGAGTTGAAGGGGGCCCATCCTTGCAACAAGTGTTAAGGGACCA
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.6 GTTGAAACCATTTGCCGAGCCCCGTGGCAGATTGCCCGAAGCGGGCTTGTTGGAAGCTGCAGTTGAAACGGTCACCAATGCAATTGAGCAGGTCATGGACACACCGGTGGCATGGAGCTACAGTGATGCTTGCATGTCCCTGGACAAAACAACCAGTTCTGGACACCCCCATCATAAAAAGAAAAATGATGATTGGAATG
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.6 GAAATTCATTTGTGAGGGAACTAGGCGACCAGGCGGCGCATGCTAATAGCATGTATGAACTTGGTAAGTCCATGAAACCTGTGTACACAGCAGCCCTAAAGGATGAGCTAGTCAAACCAGACAAGGTGTACACAAAAATCAAAAAGAGACTGCTTTGGGGCGCGGACCTTGGCACCGTTATTCGCGCTGCTAGAGCATTT
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.6 GGGCCGTTCTGTGAGGCCATAAAGCCCCATGTGATCAAGTTGCCTATCAAGGTGGGTATGAATGCCATAGAGGATGGTCCTTTGATTTACGCAGAGCATTCCAAATTTAAGTTCCATTATGATGCTGACTACACAGCTTGGGATTCAACACAAAACAGGGAGATCATGATGGAATCCTTCAATATTATGTGCAAGCTCAC
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.6 AGCCAACCCCTCCTTGGCCGCAGTGGTGGCACAAGACCTACTCTCCCCATCTGAAATGGACGTTGGCGACTATGTGATCAGCGTCAAGGATGGGCTACCATCTGGCTTTCCATGCACTTCACAGGTGAACAGCATTAACCACTGGATCCTAACCCTATGTGCATTGTCAGAAGTCACTGGCTTGTCTCCAGATGTGATAC
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.6 AATCTCAGTCCTACTTCTCATTTTATGGTGATGATGAAATAGTCTCAACAGATATAGAATTTGACCCAATAAGATTGACACAAGTACTGAAGGAATATGGTTTGAAGCCCACAAGACCTGACAAAACTGATGGCCCAATTGTTGTCAAACAACAGGTCGATGGTCTGGTTTTCCTCCGGCGCACCATCTCTAAGGATGCC
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.6 ATTGGATACCAGGGACGGCTCGACCGTAACTCCATTGAAAGACAGCTTTGGTGGACTCGCGGACCGAACCACGAAGACCCATTTGAGACTCTGGTCCCACATTCACAGAGGAAGATCCAGTTAATATCCCTGTTGGGTGAAGCAGCACTCCATGGTGAAAAGTTCTACAGGAAGATAGCTGGCAGAGTCATTCAAGAAGT
+#=GC SS_cons       ........................................................................................................................................................................................................
+
+NC_031324.ref.mp.6 CAAAGAGGGGGGGCTTGAAATCTATATTCCTGGCTGGCAGGCCATGTTCCGCTGGATGCGATTCCATGACCTAAGTTTGTGGACAGGGGACCGCGATCTCCTGCCCGATTATGTAAATGATGATGGCGTC
+#=GC SS_cons       ..................................................................................................................................
+//
+# STOCKHOLM 1.0
+#=GF ID NC_031324.ref.cds.2
+
+NC_031324.ref.cds.2 ATGATGATGGCGTCTAAGGACGCCCCAACAAACATGGATGGCACCAGTGGTGCCGGTCAGCTGGTTCCAGAGGCCAGTACAGCTGAACCTATATCAATGGAACCTGTGGCTGGTGCTGCTACGGCAGCAGCAACCGCAGGTCAAGTTAATATGATTGACCCCTGGATTATGAGTAATTATGTTCAAGCTCCTCAAGGAGA
+#=GC SS_cons        ........................................................................................................................................................................................................
+
+NC_031324.ref.cds.2 GTTCACAATTTCCCCTAACAATACCCCCGGAGACATATTGTTTGATTTACAATTAGGCCCCCATTTAAATCCATTCCTATCACACCTAGCCCAAATGTATAATGGTTGGGTTGGCAATATGAAAGTTAGGGTGTTGCTCGCTGGTAACGCCTTTACAGCGGGCAAAATAATAATCAGTTGTGTCCCCCCAGGTTTTGCAG
+#=GC SS_cons        ........................................................................................................................................................................................................
+
+NC_031324.ref.cds.2 CCCAGAATGTCTCAATAGCCCAAGCTACTATGTTCCCACACGTTATTGCAGATGTGCGGGTGCTTGAACCAATTGAAGTCCCATTAGAGGACGTCAGGAATGTGCTTTTCCATAATAATGATTCTACCCCAACTATGAGGCTGATTTGCATGCTTTACACCCCTCTTCGTGCTAGTGGCAGTTCCTCTGGTACAGATCCA
+#=GC SS_cons        ........................................................................................................................................................................................................
+
+NC_031324.ref.cds.2 TTTGTTATAGCTGGTCGGGTCCTCACCTGTCCCAGTCCTGACTTTAACTTCTTGTTCCTTGTGCCCCCTAATGTTGAACAGAAAACTAAACCATTTAGTGTGCCCAATCTTCCTCTCAATGTTCTCTCAAATTCTAGAGTCCCCTCCTTAATAAGGTCCATGATGGTCTCTCAAGATCATGGACAGATGGTACAGTTCCA
+#=GC SS_cons        ........................................................................................................................................................................................................
+
+NC_031324.ref.cds.2 AAATGGTAGGGTCACATTGGATGGACAGCTCCAAGGCACCACCCCCACTTCAGCTAGTCAGCTCTGTAAGATTCGAGGGACGGTTTATCACGCAACTGGTGGTCAAGGGCTTAATTTAACTGAGATTGATGGCACCCCCTACCACGCACTTGAGAGCCCTGCCCCAATTGGCTTCCCCGATTTAGGTGAGTGTGATTGGC
+#=GC SS_cons        ........................................................................................................................................................................................................
+
+NC_031324.ref.cds.2 ACATTAATGCATCTCCTGCCAATGCTTTTACAGATGGTAGCATTATACATAGAATTGATGTGGCCCAGGATTCCACTTTTGCCCCCCATTTAGGTACTATCCATTACACCAATGCTAATTATGATGCAAATATTAGCCTGATTTGTTCACTTGAGTGGCTTTCCCCCCCAAGTGGTGGTGCCCCAAAGGTAAACCCATGG
+#=GC SS_cons        ........................................................................................................................................................................................................
+
+NC_031324.ref.cds.2 GCCATCCCTCGGTATGGTTCTACTTTAACCGAGGCTGCCCAGCTGGCTCCACCAATATATCCCCCTGGTTTTGGTGAGGCAATTGTTTTCTTCATGTCCGATTTTCCCATAGCCAATGGTTCAGATGGCCTAAGTGTCCCTTGCACCATACCACAAGAGTTTGTGACCCATTTTGTTAATGAGCAAGCTCCAACCCGTGG
+#=GC SS_cons        ........................................................................................................................................................................................................
+
+NC_031324.ref.cds.2 GGAGGCTGCCCTTCTTCATTATGTTGACCCTGACACACACCGTAATCTAGGTGAGTTTAAATTATACCCTGAAGGATTCATGACCTGTGTACCAAATTCTAGTGGCAGTGGCCCCCAAACACTACCCATCAATGGGGTCTTTACCTTTATCTCTTGGGTTTCCCGTTTTTACCAACTAAAGCCTGTGGGAACGACCGGAC
+#=GC SS_cons        ........................................................................................................................................................................................................
+
+NC_031324.ref.cds.2 CGGTTCGTAGGCTCGGAATCAGGAGATCATAA
+#=GC SS_cons        ................................
+//
+# STOCKHOLM 1.0
+#=GF ID NC_031324.ref.cds.3
+
+NC_031324.ref.cds.3 ATGGCCCAAGCAATAATTGGAGCAATAGCTGCGACAGCTGCTGGCAGTGCTGTAGGTGCGGGCATTCAGGCTGGCACTGAGGCTGCGCTTCAACACCAGCGCTTCCAGCAGGATTTGACGTTGCAGAGTAACACTTTCAAACACGATAAGGAAATGTTAGGATTGCAGGTTGGTGCTTCTACTGCCCTTTTACAAAATAG
+#=GC SS_cons        ........................................................................................................................................................................................................
+
+NC_031324.ref.cds.3 CCTCAGTACACGCTATAACATGCTCACCAATGCTGGCCTCTCATCTTCGGATGCGGCTCGCATGGTGGTTGGCGCACCTGCTACGCGTGTTGTAGACTGGAATGGCACTAGGATATCAGCACCGCGGTCCACTGCCACCACACTGAGGTCTGGCGGATTCATGACAATCCCAACTCTATACAAGGGCAAGCAACAGCAGA
+#=GC SS_cons        ........................................................................................................................................................................................................
+
+NC_031324.ref.cds.3 AGGCTCCAGCTGAAATTGGTTTGTCTAATCCAAATTATGGGTCATCTGTATCTTCAAGGGTTGCTGATTGGGTTTCTTCTCAAAATTCCTCTCGCTCGTCCTTGGGCCCATACCACCCCAATGCTTTACAAACAACATGGGTAACACCACCCGGTTCAAGTTCTACTTCTACTATTTCTTCTGTGTCTACTGCACCTAGA
+#=GC SS_cons        ........................................................................................................................................................................................................
+
+NC_031324.ref.cds.3 TATTTTAATACTGATAGGTTGCCTCTATTCGCAAATATGAGGAAATAA
+#=GC SS_cons        ................................................
+//

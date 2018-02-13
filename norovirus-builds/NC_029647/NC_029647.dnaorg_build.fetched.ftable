@@ -1,0 +1,28 @@
+>Feature ref|NC_029647.1|
+1	4	5'UTR
+5	5068	gene
+			locus_tag	NoVGIV_gp1
+			db_xref	GeneID:27042438
+5	5068	CDS
+			product	non-structural polyprotein
+			transl_table	1
+			protein_id	ref|YP_009237903.1|
+			note	ORF1
+5049	6719	gene
+			locus_tag	NoVGIV_gp2
+			db_xref	GeneID:27042436
+5049	6719	CDS
+			product	VP1
+			transl_table	1
+			protein_id	ref|YP_009237904.1|
+			note	ORF2; major capsid protein
+6719	7447	gene
+			locus_tag	NoVGIV_gp3
+			db_xref	GeneID:27042437
+6719	7447	CDS
+			product	VP2
+			transl_table	1
+			protein_id	ref|YP_009237905.1|
+			note	ORF3; minor structural protein; small basic protein
+7448	7527	3'UTR
+

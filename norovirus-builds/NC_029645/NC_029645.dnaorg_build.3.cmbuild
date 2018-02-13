@@ -1,0 +1,17 @@
+# cmbuild :: covariance model construction from multiple sequence alignments
+# INFERNAL 1.1.2 (July 2016)
+# Copyright (C) 2016 Howard Hughes Medical Institute.
+# Freely distributed under a BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# CM file:                                            NC_029645/NC_029645.dnaorg_build.3.cm
+# alignment file:                                     -
+# overwrite CM file if necessary:                     yes
+# input format specified as:                          stockholm
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#                                                                      rel entropy
+#                                                                      -----------
+# idx    name                     nseq eff_nseq   alen  clen  bps bifs    CM   HMM description
+# ------ -------------------- -------- -------- ------ ----- ---- ---- ----- ----- -----------
+       1 NC_029645.ref.mp.4          1     1.00    366   366    0    0 0.357 0.357 
+#
+# CPU time: 1.64u 0.00s 00:00:01.64 Elapsed: 00:00:01.67
