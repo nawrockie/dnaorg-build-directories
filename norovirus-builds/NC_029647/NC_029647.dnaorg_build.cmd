@@ -1,4 +1,6 @@
+rm -rf NC_029647
 mkdir NC_029647
+cp NC_029647.matpept.in NC_029647/NC_029647.dnaorg_build.matpept
 md5sum NC_029647.matpept.in > NC_029647.matpept.in.md5sum
 rm NC_029647.matpept.in.md5sum
 esearch -db nuccore -query NC_029647 | efetch -format gpc | xtract -insd mat_peptide INSDFeature_location product > NC_029647/NC_029647.dnaorg_build.mat_peptide
@@ -70,6 +72,6 @@ sh NC_029647/NC_029647.dnaorg_build.cm.qsub
 /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmpress -F NC_029647/NC_029647.dnaorg_build.5.cm > /dev/null
 /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmpress -F NC_029647/NC_029647.dnaorg_build.6.cm > /dev/null
 /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmpress -F NC_029647/NC_029647.dnaorg_build.7.cm > /dev/null
-# Tue Feb 13 14:23:26 EST 2018
-# Linux sge656 3.10.0-693.11.1.el7.x86_64 #1 SMP Mon Dec 4 23:52:40 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
+# Tue Feb 13 17:39:01 EST 2018
+# Linux sge152 3.10.0-693.11.1.el7.x86_64 #1 SMP Mon Dec 4 23:52:40 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
 # DNAORG-SUCCESS
