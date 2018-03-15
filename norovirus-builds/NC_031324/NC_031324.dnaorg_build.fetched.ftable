@@ -1,5 +1,7 @@
 >Feature ref|NC_031324.1|
+1	65	5'UTR
 66	5375	gene
+			gene	ORF1
 			locus_tag	BJK45_gp1
 			db_xref	GeneID:29140689
 66	5375	CDS
@@ -10,7 +12,7 @@
 			gene	-
 			note	ORF1; encodes helicase, protease, and polymerase
 5359	6990	gene
-			gene	VP1
+			gene	ORF2
 			locus_tag	BJK45_gp2
 			db_xref	GeneID:29140688
 5359	6990	CDS
@@ -19,7 +21,7 @@
 			protein_id	ref|YP_009305195.1|
 			note	ORF2; major capsid protein VP1
 6990	7637	gene
-			gene	VP2
+			gene	ORF3
 			locus_tag	BJK45_gp3
 			db_xref	GeneID:29140687
 6990	7637	CDS
@@ -27,4 +29,5 @@
 			transl_table	1
 			protein_id	ref|YP_009305196.1|
 			note	ORF3; minor capsid protein VP2; small basic protein
+7638	7753	3'UTR
 

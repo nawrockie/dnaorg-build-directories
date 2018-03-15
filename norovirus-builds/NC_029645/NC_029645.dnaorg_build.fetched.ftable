@@ -1,13 +1,15 @@
 >Feature ref|NC_029645.1|
 1	21	5'UTR
 22	5076	gene
+			gene	ORF1
 			locus_tag	NoVGIII_gp1
 			db_xref	GeneID:27042395
 22	5076	CDS
-			product	polyprotein
+			product	nonstructural polyprotein
 			transl_table	1
 			protein_id	ref|YP_009237900.1|
 5063	6631	gene
+			gene	ORF2
 			locus_tag	NoVGIII_gp2
 			db_xref	GeneID:27042393
 5063	6631	CDS
@@ -16,6 +18,7 @@
 			protein_id	ref|YP_009237901.1|
 			note	ORF2; major capsid protein
 6621	7271	gene
+			gene	ORF3
 			locus_tag	NoVGIII_gp3
 			db_xref	GeneID:27042394
 6621	7271	CDS

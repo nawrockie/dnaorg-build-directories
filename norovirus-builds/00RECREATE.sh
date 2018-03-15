@@ -1,5 +1,6 @@
-# EPN, Tue Feb 13 12:58:45 2018
-# dnaorg_scripts version 0.26
+# EPN, Wed Mar 14 15:13:52 2018 [dnaorg_scripts version 0.28] current
+# EPN, Tue Feb 13 12:58:45 2018 [dnaorg_scripts version 0.26] previous
+# 
 # Step 1: create the norovirus-builds directory using dnaorg_classify.pl --onlybuild:
 dnaorg_classify.pl --dirout norovirus-builds --onlybuild norovirus_refseq_list.txt 
 

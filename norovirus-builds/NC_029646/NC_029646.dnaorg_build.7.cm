@@ -8,9 +8,9 @@ ALPH     RNA
 RF       no
 CONS     yes
 MAP      yes
-DATE     Tue Feb 13 15:48:23 2018
+DATE     Wed Mar 14 15:21:38 2018
 COM      [1] /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_029646/NC_029646.dnaorg_build.7.cm -
-COM      [2] /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmcalibrate --cpu 0 -L 0.04 /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_0210_dnaorg_classify_annotate_option/dnaorg-build-directories/norovirus-builds/NC_029646/NC_029646.dnaorg_build.7.cm
+COM      [2] /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmcalibrate --cpu 0 -L 0.04 /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_0314_dnaorg_virus_noro_rebuild/dnaorg-build-directories/norovirus-builds/NC_029646/NC_029646.dnaorg_build.7.cm
 PBEGIN   0.05
 PEND     0.05
 WBETA    1e-07
@@ -3166,7 +3166,7 @@ MM    no
 CONS  yes
 CS    yes
 MAP   no
-DATE  Tue Feb 13 15:48:23 2018
+DATE  Wed Mar 14 15:21:38 2018
 COM   [1] /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_029646/NC_029646.dnaorg_build.7.cm -
 COM   [2] /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_029646/NC_029646.dnaorg_build.7.cm -
 NSEQ  1

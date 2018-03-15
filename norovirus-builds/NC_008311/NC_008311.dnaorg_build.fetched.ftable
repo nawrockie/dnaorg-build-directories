@@ -1,6 +1,7 @@
 >Feature ref|NC_008311.1|
 1	5	5'UTR
 6	5069	gene
+			gene	ORF1
 			locus_tag	NoVGV_gp1
 			old_locus_tag	MNV1_gp1
 			db_xref	GeneID:4246735
@@ -10,6 +11,7 @@
 			protein_id	ref|YP_720001.1|
 			note	ORF1; encodes helicase, protease, and polymerase
 5056	6681	gene
+			gene	ORF2
 			locus_tag	NoVGV_gp2
 			old_locus_tag	MNV1_gp2
 			db_xref	GeneID:4246736
@@ -20,6 +22,7 @@
 			protein_id	ref|YP_720002.1|
 			note	capsid protein VP1
 5069	5710	gene
+			gene	ORF4
 			locus_tag	NoVGV_gp4
 			old_locus_tag	MNV1_gp4
 			db_xref	GeneID:12979196
@@ -30,6 +33,7 @@
 			protein_id	ref|YP_006390081.1|
 			note	Virulence factor 1 has been added by NCBI Staff with the kind help of Dr. David Karlin(Department of Zoology, University of Oxford, UK).
 6681	7307	gene
+			gene	ORF3
 			locus_tag	NoVGV_gp3
 			old_locus_tag	MNV1_gp3
 			db_xref	GeneID:4246737

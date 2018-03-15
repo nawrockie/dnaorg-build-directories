@@ -1,13 +1,16 @@
 >Feature ref|NC_029646.1|
+1	4	5'UTR
 5	5104	gene
+			gene	ORF1
 			locus_tag	NoVGII_gp1
 			db_xref	GeneID:27042434
 5	5104	CDS
-			product	RNA polymerase
+			product	nonstructural polyprotein
 			transl_table	1
 			protein_id	ref|YP_009237897.1|
-			note	N-terminal, helicase, VPg, 3Cpro, RdRp~orf1
+			note	N-terminal, helicase, VPg, 3Cpro, RdRp, orf1, RNA polymerase
 5085	6692	gene
+			gene	ORF2
 			locus_tag	NoVGII_gp2
 			db_xref	GeneID:27042432
 5085	6692	CDS
@@ -16,6 +19,7 @@
 			protein_id	ref|YP_009237898.1|
 			note	ORF2; major capsid protein
 6692	7471	gene
+			gene	ORF3
 			locus_tag	NoVGII_gp3
 			db_xref	GeneID:27042433
 6692	7471	CDS
@@ -23,4 +27,5 @@
 			prot_note	ORF3; minor structural protein; small basic protein
 			transl_table	1
 			protein_id	ref|YP_009237899.1|
+7472	7518	3'UTR
 
