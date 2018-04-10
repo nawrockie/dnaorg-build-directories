@@ -23,6 +23,6 @@ rm norovirus-builds/norovirus-builds.dnaorg_classify.2.hmm
 rm norovirus-builds/norovirus-builds.dnaorg_classify.3.hmm
 rm norovirus-builds/norovirus-builds.dnaorg_classify.4.hmm
 rm norovirus-builds/norovirus-builds.dnaorg_classify.5.hmm
-# Wed Mar 14 15:15:56 EDT 2018
-# Linux cbbdev21 3.10.0-693.17.1.el7.x86_64 #1 SMP Thu Jan 25 20:13:58 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+# Mon Apr  9 10:15:26 EDT 2018
+# Linux cbbdev21 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
 # DNAORG-SUCCESS

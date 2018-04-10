@@ -6,3 +6,6 @@
 /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmpress -F NC_029647/NC_029647.dnaorg_build.5.cm > /dev/null
 /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmpress -F NC_029647/NC_029647.dnaorg_build.6.cm > /dev/null
 /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmpress -F NC_029647/NC_029647.dnaorg_build.7.cm > /dev/null
+/home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmpress -F NC_029647/NC_029647.dnaorg_build.8.cm > /dev/null
+/home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmpress -F NC_029647/NC_029647.dnaorg_build.9.cm > /dev/null
+/home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmpress -F NC_029647/NC_029647.dnaorg_build.10.cm > /dev/null

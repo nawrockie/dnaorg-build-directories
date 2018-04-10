@@ -22,6 +22,12 @@ cat NC_029646/NC_029646.dnaorg_build.ref.mp.6.named.stk >> NC_029646/NC_029646.d
 cat NC_029646/NC_029646.dnaorg_build.ref.cds.2.named.stk >> NC_029646/NC_029646.dnaorg_build.ref.all.stk
 /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/easel/miniapps/esl-reformat --informat afa stockholm NC_029646/NC_029646.dnaorg_build.ref.cds.3.fa > NC_029646/NC_029646.dnaorg_build.ref.cds.3.stk
 cat NC_029646/NC_029646.dnaorg_build.ref.cds.3.named.stk >> NC_029646/NC_029646.dnaorg_build.ref.all.stk
+/home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/easel/miniapps/esl-reformat --informat afa stockholm NC_029646/NC_029646.dnaorg_build.ref.gene.1.fa > NC_029646/NC_029646.dnaorg_build.ref.gene.1.stk
+cat NC_029646/NC_029646.dnaorg_build.ref.gene.1.named.stk >> NC_029646/NC_029646.dnaorg_build.ref.all.stk
+/home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/easel/miniapps/esl-reformat --informat afa stockholm NC_029646/NC_029646.dnaorg_build.ref.gene.2.fa > NC_029646/NC_029646.dnaorg_build.ref.gene.2.stk
+cat NC_029646/NC_029646.dnaorg_build.ref.gene.2.named.stk >> NC_029646/NC_029646.dnaorg_build.ref.all.stk
+/home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/easel/miniapps/esl-reformat --informat afa stockholm NC_029646/NC_029646.dnaorg_build.ref.gene.3.fa > NC_029646/NC_029646.dnaorg_build.ref.gene.3.stk
+cat NC_029646/NC_029646.dnaorg_build.ref.gene.3.named.stk >> NC_029646/NC_029646.dnaorg_build.ref.all.stk
 rm NC_029646/NC_029646.dnaorg_build.ref.mp.1.fa
 rm NC_029646/NC_029646.dnaorg_build.ref.mp.1.stk
 rm NC_029646/NC_029646.dnaorg_build.ref.mp.1.named.stk
@@ -46,6 +52,15 @@ rm NC_029646/NC_029646.dnaorg_build.ref.cds.2.named.stk
 rm NC_029646/NC_029646.dnaorg_build.ref.cds.3.fa
 rm NC_029646/NC_029646.dnaorg_build.ref.cds.3.stk
 rm NC_029646/NC_029646.dnaorg_build.ref.cds.3.named.stk
+rm NC_029646/NC_029646.dnaorg_build.ref.gene.1.fa
+rm NC_029646/NC_029646.dnaorg_build.ref.gene.1.stk
+rm NC_029646/NC_029646.dnaorg_build.ref.gene.1.named.stk
+rm NC_029646/NC_029646.dnaorg_build.ref.gene.2.fa
+rm NC_029646/NC_029646.dnaorg_build.ref.gene.2.stk
+rm NC_029646/NC_029646.dnaorg_build.ref.gene.2.named.stk
+rm NC_029646/NC_029646.dnaorg_build.ref.gene.3.fa
+rm NC_029646/NC_029646.dnaorg_build.ref.gene.3.stk
+rm NC_029646/NC_029646.dnaorg_build.ref.gene.3.named.stk
 qsub -N b.NC_029646.dnaorg_build0 -b y -v SGE_FACILITIES -P unified -S /bin/bash -cwd -V -j n -o /dev/null -e /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_0314_dnaorg_virus_noro_rebuild/dnaorg-build-directories/norovirus-builds/NC_029646/NC_029646.dnaorg_build.b.0.err -m n -l h_rt=288000,h_vmem=8G,mem_free=8G,reserve_mem=8G "/home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/easel/miniapps/esl-afetch NC_029646/NC_029646.dnaorg_build.ref.all.stk NC_029646.ref.mp.1 | /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_029646/NC_029646.dnaorg_build.0.cm - > NC_029646/NC_029646.dnaorg_build.0.cmbuild" > /dev/null
 
 qsub -N b.NC_029646.dnaorg_build1 -b y -v SGE_FACILITIES -P unified -S /bin/bash -cwd -V -j n -o /dev/null -e /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_0314_dnaorg_virus_noro_rebuild/dnaorg-build-directories/norovirus-builds/NC_029646/NC_029646.dnaorg_build.b.1.err -m n -l h_rt=288000,h_vmem=8G,mem_free=8G,reserve_mem=8G "/home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/easel/miniapps/esl-afetch NC_029646/NC_029646.dnaorg_build.ref.all.stk NC_029646.ref.mp.2 | /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_029646/NC_029646.dnaorg_build.1.cm - > NC_029646/NC_029646.dnaorg_build.1.cmbuild" > /dev/null
@@ -62,6 +77,12 @@ qsub -N b.NC_029646.dnaorg_build6 -b y -v SGE_FACILITIES -P unified -S /bin/bash
 
 qsub -N b.NC_029646.dnaorg_build7 -b y -v SGE_FACILITIES -P unified -S /bin/bash -cwd -V -j n -o /dev/null -e /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_0314_dnaorg_virus_noro_rebuild/dnaorg-build-directories/norovirus-builds/NC_029646/NC_029646.dnaorg_build.b.7.err -m n -l h_rt=288000,h_vmem=8G,mem_free=8G,reserve_mem=8G "/home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/easel/miniapps/esl-afetch NC_029646/NC_029646.dnaorg_build.ref.all.stk NC_029646.ref.cds.3 | /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_029646/NC_029646.dnaorg_build.7.cm - > NC_029646/NC_029646.dnaorg_build.7.cmbuild" > /dev/null
 
+qsub -N b.NC_029646.dnaorg_build8 -b y -v SGE_FACILITIES -P unified -S /bin/bash -cwd -V -j n -o /dev/null -e /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_0314_dnaorg_virus_noro_rebuild/dnaorg-build-directories/norovirus-builds/NC_029646/NC_029646.dnaorg_build.b.8.err -m n -l h_rt=288000,h_vmem=8G,mem_free=8G,reserve_mem=8G "/home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/easel/miniapps/esl-afetch NC_029646/NC_029646.dnaorg_build.ref.all.stk NC_029646.ref.gene.1 | /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_029646/NC_029646.dnaorg_build.8.cm - > NC_029646/NC_029646.dnaorg_build.8.cmbuild" > /dev/null
+
+qsub -N b.NC_029646.dnaorg_build9 -b y -v SGE_FACILITIES -P unified -S /bin/bash -cwd -V -j n -o /dev/null -e /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_0314_dnaorg_virus_noro_rebuild/dnaorg-build-directories/norovirus-builds/NC_029646/NC_029646.dnaorg_build.b.9.err -m n -l h_rt=288000,h_vmem=8G,mem_free=8G,reserve_mem=8G "/home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/easel/miniapps/esl-afetch NC_029646/NC_029646.dnaorg_build.ref.all.stk NC_029646.ref.gene.2 | /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_029646/NC_029646.dnaorg_build.9.cm - > NC_029646/NC_029646.dnaorg_build.9.cmbuild" > /dev/null
+
+qsub -N b.NC_029646.dnaorg_build10 -b y -v SGE_FACILITIES -P unified -S /bin/bash -cwd -V -j n -o /dev/null -e /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_0314_dnaorg_virus_noro_rebuild/dnaorg-build-directories/norovirus-builds/NC_029646/NC_029646.dnaorg_build.b.10.err -m n -l h_rt=288000,h_vmem=8G,mem_free=8G,reserve_mem=8G "/home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/easel/miniapps/esl-afetch NC_029646/NC_029646.dnaorg_build.ref.all.stk NC_029646.ref.gene.3 | /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_029646/NC_029646.dnaorg_build.10.cm - > NC_029646/NC_029646.dnaorg_build.10.cmbuild" > /dev/null
+
 sh NC_029646/NC_029646.dnaorg_build.cm.qsub
 /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmpress -F NC_029646/NC_029646.dnaorg_build.0.cm > /dev/null
 /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmpress -F NC_029646/NC_029646.dnaorg_build.1.cm > /dev/null
@@ -71,6 +92,9 @@ sh NC_029646/NC_029646.dnaorg_build.cm.qsub
 /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmpress -F NC_029646/NC_029646.dnaorg_build.5.cm > /dev/null
 /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmpress -F NC_029646/NC_029646.dnaorg_build.6.cm > /dev/null
 /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmpress -F NC_029646/NC_029646.dnaorg_build.7.cm > /dev/null
-# Wed Mar 14 16:57:55 EDT 2018
-# Linux sge581 3.10.0-693.17.1.el7.x86_64 #1 SMP Thu Jan 25 20:13:58 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+/home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmpress -F NC_029646/NC_029646.dnaorg_build.8.cm > /dev/null
+/home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmpress -F NC_029646/NC_029646.dnaorg_build.9.cm > /dev/null
+/home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmpress -F NC_029646/NC_029646.dnaorg_build.10.cm > /dev/null
+# Mon Apr  9 14:48:48 EDT 2018
+# Linux sge797 3.10.0-693.17.1.el7.x86_64 #1 SMP Thu Jan 25 20:13:58 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
 # DNAORG-SUCCESS
