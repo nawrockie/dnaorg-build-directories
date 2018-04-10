@@ -1,0 +1,28 @@
+# cmcalibrate :: fit exponential tails for CM E-values
+# INFERNAL 1.1.2 (July 2016)
+# Copyright (C) 2016 Howard Hughes Medical Institute.
+# Freely distributed under a BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# CM file:                                     /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_0409_dnaorg_virus_ebola_build_and_test_seqs/dnaorg-build-directories/ebolavirus-builds/NC_014373/NC_014373.dnaorg_build.4.cm
+# total sequence length to search per mode:    0.04 Mb
+# number of worker threads:                    0 [--cpu]
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#
+# Calibrating CM(s):
+#
+#                        predicted                                                   actual   
+#                       running time              percent complete                running time
+# model name            (hr:min:sec)  [........25........50........75..........]  (hr:min:sec)
+# --------------------  ------------  ------------------------------------------  ------------
+  NC_014373.ref.cds.4.exon.2      00:43:24  [========================================]      00:40:50
+#
+# Calibration summary statistics:
+#
+#                           exponential tail fit mu        exponential tail fit lambda         total number of hits      
+#                       -------------------------------  -------------------------------  -------------------------------
+# model name            glc cyk glc ins loc cyk loc ins  glc cyk glc ins loc cyk loc ins  glc cyk glc ins loc cyk loc ins
+# --------------------  ------- ------- ------- -------  ------- ------- ------- -------  ------- ------- ------- -------
+  NC_014373.ref.cds.4.exon.2  -195.71  -43.83   -5.85   -5.02    0.164   0.181   0.777   0.635       31      32   16653   13772
+#
+# CPU time: 2513.43u 7.18s 00:42:00.60 Elapsed: 00:42:02.17
+[ok]

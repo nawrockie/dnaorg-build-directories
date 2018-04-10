@@ -1,0 +1,153 @@
+>Feature ref|NC_014373.1|
+1	55	5'UTR
+			note	leader region
+			function	regulation or initiation of RNA replication
+56	3014	gene
+			gene	NP
+			locus_tag	BDBVp1
+			db_xref	GeneID:9487269
+56	3014	mRNA
+			product	nucleoprotein
+56	67	regulatory
+			note	putative transcription start signal
+			regulatory_class	other
+458	2677	CDS
+			product	nucleoprotein
+			function	encapsidation of genomic RNA
+			transl_table	1
+			protein_id	ref|YP_003815432.1|
+			note	encapsidation of genomic RNA
+3003	3014	regulatory
+			note	putative
+			regulatory_class	polyA_signal_sequence
+3020	4389	gene
+			gene	VP35
+			locus_tag	BDBVp2
+			db_xref	GeneID:9487263
+3020	4389	mRNA
+			product	VP35
+3020	3031	regulatory
+			note	putative transcription start signal
+			regulatory_class	other
+3108	4133	CDS
+			product	polymerase complex protein
+			function	RNA-dependent RNA polymerase cofactor
+			transl_table	1
+			protein_id	ref|YP_003815433.1|
+			note	putative type-1 IFN antagonist
+4372	5875	gene
+			gene	VP40
+			locus_tag	BDBVp3
+			db_xref	GeneID:9487264
+4372	5875	mRNA
+			product	VP40
+4372	4383	regulatory
+			gene	VP40
+			note	putative transcription start signal
+			regulatory_class	other
+4379	4389	regulatory
+			note	putative
+			regulatory_class	polyA_signal_sequence
+4461	5441	CDS
+			product	matrix protein
+			function	coalesce nucleocapsids and cell membranes in virion assembly (budding)
+			transl_table	1
+			protein_id	ref|YP_003815434.1|
+5865	5875	regulatory
+			note	putative
+			regulatory_class	polyA_signal_sequence
+5882	8286	gene
+			gene	GP
+			locus_tag	BDBVp4
+			db_xref	GeneID:9487265
+5882	8286	mRNA
+			product	sGP
+			note	unedited mRNA
+5882	5893	regulatory
+			note	putative transcription start signal
+			regulatory_class	other
+6021	6905	CDS
+6905	8050
+			product	spike glycoprotein
+			function	receptor binding and fusion
+			transl_table	1
+			protein_id	ref|YP_003815435.1|
+			note	GP1,2; structural glycoprotein; cleaved by furin into subunits GP1 and GP2 to yield a heterodimer linked by a disulfide bond
+			exception	RNA editing
+6021	7142	CDS
+			product	small secreted glycoprotein
+			transl_table	1
+			protein_id	ref|YP_003815436.1|
+			note	solulbe secreted glycoprotein; small non-structural secreted glycoprotein; sGP
+6021	6905	CDS
+6907	6930
+			product	second secreted glycoprotein
+			prot_desc	ssGP
+			transl_table	1
+			protein_id	ref|YP_003815437.1|
+			note	second non-structural secreted glycoprotein; secreted in a monomeric form; one A residue is deleted or two additional A residues are inserted at the editing site during transcription of the GP gene
+6900	6906	misc_feature
+			note	additional A residues are inserted or deleted during transcription by the viral polymerase; transcriptional editing site
+7775	7852	misc_feature
+			note	immunosuppressive motif in structural glycoprotein
+7970	8035	misc_feature
+			note	transmembrane anchor present in structural glycoprotein
+8269	9728	gene
+			gene	VP30
+			locus_tag	BDBVp5
+			db_xref	GeneID:9487266
+8269	9728	mRNA
+			product	VP30
+8269	8280	regulatory
+			note	putative transcription start signal
+			regulatory_class	other
+8276	8286	regulatory
+			gene	GP
+			note	putative
+			regulatory_class	polyA_signal_sequence
+8496	9365	CDS
+			product	minor nucleoprotein
+			transl_table	1
+			protein_id	ref|YP_003815438.1|
+			note	polymerase complex protein
+9717	9728	regulatory
+			note	putative
+			regulatory_class	polyA_signal_sequence
+9869	11504	gene
+			gene	VP24
+			locus_tag	BDBVp6
+			db_xref	GeneID:9487267
+9869	11504	mRNA
+			product	VP24
+9869	9880	regulatory
+			note	putative transcription start signal
+			regulatory_class	other
+10335	11090	CDS
+			product	membrane-associated protein
+			transl_table	1
+			protein_id	ref|YP_003815439.1|
+11487	18465	gene
+			gene	L
+			locus_tag	BDBVp7
+			db_xref	GeneID:9487268
+11487	18465	mRNA
+			product	polymerase
+11487	11498	regulatory
+			gene	L
+			note	putative transcription start signal
+			regulatory_class	other
+11494	11504	regulatory
+			note	putative
+			regulatory_class	polyA_signal_sequence
+11567	18199	CDS
+			product	RNA-dependent RNA polymerase
+			transl_table	1
+			protein_id	ref|YP_003815440.1|
+			note	synthesis of viral RNAs; transcriptional RNA editing
+18455	18465	regulatory
+			note	putative; alternative (upstream) polyA signal
+			regulatory_class	polyA_signal_sequence
+18466	18940	3'UTR
+			note	trailer region
+			function	regulation or initiation of RNA replication
+

@@ -1,0 +1,158 @@
+>Feature ref|NC_002549.1|
+1	55	5'UTR
+			note	leader region
+			function	regulation or initiation of RNA replication
+56	3026	gene
+			gene	NP
+			locus_tag	ZEBOVgp1
+			db_xref	GeneID:911830
+56	3026	mRNA
+			product	nucleoprotein
+56	67	regulatory
+			note	putative; transcription start signal
+			regulatory_class	other
+470	2689	CDS
+			product	nucleoprotein
+			function	encapsidation of genomic RNA
+			transl_table	1
+			protein_id	ref|NP_066243.1|
+3015	3026	regulatory
+			regulatory_class	polyA_signal_sequence
+3027	3031	misc_feature
+			note	intergenic region
+3032	4407	gene
+			gene	VP35
+			locus_tag	ZEBOVgp2
+			db_xref	GeneID:911827
+3032	4407	mRNA
+			product	VP35
+3032	3043	regulatory
+			note	putative; transcription start signal
+			regulatory_class	other
+3129	4151	CDS
+			product	polymerase complex protein
+			function	RNA-dependent RNA polymerase cofactor
+			transl_table	1
+			protein_id	ref|NP_066244.1|
+4390	5894	gene
+			gene	VP40
+			locus_tag	ZEBOVgp3
+			db_xref	GeneID:911825
+4390	5894	mRNA
+			product	VP40
+4390	4401	regulatory
+			gene	VP40
+			note	transcription start signal
+			regulatory_class	other
+4397	4407	regulatory
+			regulatory_class	polyA_signal_sequence
+4479	5459	CDS
+			product	matrix protein
+			prot_desc	coalesce nucleocapsids and cell membranes in virion assembly (budding)
+			transl_table	1
+			protein_id	ref|NP_066245.1|
+5883	5894	regulatory
+			regulatory_class	polyA_signal_sequence
+5895	5899	misc_feature
+			note	intergenic region
+5900	8305	gene
+			gene	GP
+			locus_tag	ZEBOVgp4
+			db_xref	GeneID:911829
+5900	8305	mRNA
+			product	sGP
+			note	unedited mRNA
+5900	5911	regulatory
+			note	putative; transcription start signal
+			regulatory_class	other
+6039	6923	CDS
+6923	8068
+			product	spike glycoprotein
+			function	receptor binding and fusion
+			transl_table	1
+			protein_id	ref|NP_066246.1|
+			note	virion spike glycoprotein precursor; an additional A residue is inserted during transcription; encodes two disulfide linked subunits GP1 and GP2
+			exception	RNA editing
+6039	7133	CDS
+			product	small secreted glycoprotein
+			prot_note	small non-structural secreted glycoprotein; sGP
+			transl_table	1
+			protein_id	ref|NP_066247.1|
+			note	sGP, small non-structural, secreted glycoprotein; sGP secreted as an anti-parallel oriented homodimer
+6039	6922	CDS
+6924	6933
+			product	second secreted glycoprotein
+			prot_desc	ssGP
+			transl_table	1
+			protein_id	ref|NP_066248.1|
+			note	second non-structural secreted glycoprotein; super small secreted glycoprotein; secreted in a monomeric form; one A residue is deleted or two additional A residues are inserted at the editing site during transcription of the GP gene
+			exception	RNA editing
+6918	6924	regulatory
+			note	additional A residues are inserted or deleted during transcription of the GP gene by the viral polymerase
+			function	RNA editing
+			regulatory_class	other
+8288	9740	gene
+			gene	VP30
+			locus_tag	ZEBOVgp5
+			db_xref	GeneID:911826
+8288	9740	mRNA
+			product	VP30
+8288	8299	regulatory
+			note	putative; transcription start signal
+			regulatory_class	other
+8295	8305	regulatory
+			gene	GP
+			regulatory_class	polyA_signal_sequence
+8509	9375	CDS
+			product	minor nucleoprotein
+			function	encapsidation of genomic RNA
+			transl_table	1
+			protein_id	ref|NP_066249.1|
+			note	polymerase complex protein
+9730	9740	regulatory
+			note	putative
+			regulatory_class	polyA_signal_sequence
+9741	9884	misc_feature
+			note	intergenic region
+9885	11518	gene
+			gene	VP24
+			locus_tag	ZEBOVgp6
+			note	putative
+			db_xref	GeneID:911828
+9885	11496	mRNA
+			product	VP24
+9885	9896	regulatory
+			note	transcription start signal
+			regulatory_class	other
+10345	11100	CDS
+			product	membrane-associated protein
+			transl_table	1
+			protein_id	ref|NP_066250.1|
+11485	11496	regulatory
+			note	putative
+			regulatory_class	polyA_signal_sequence
+11497	11500	misc_feature
+			note	intergenic region
+11501	18282	gene
+			gene	L
+			locus_tag	ZEBOVgp7
+			db_xref	GeneID:911824
+11501	18282	mRNA
+			product	polymerase
+11501	11512	regulatory
+			gene	L
+			note	transcription start signal
+			regulatory_class	other
+11508	11518	regulatory
+			regulatory_class	polyA_signal_sequence
+11581	18219	CDS
+			product	RNA-dependent RNA polymerase
+			function	synthesis of viral RNAs; transcriptional RNA editing
+			transl_table	1
+			protein_id	ref|NP_066251.1|
+18272	18282	regulatory
+			regulatory_class	polyA_signal_sequence
+18283	18959	3'UTR
+			note	trailer region
+			function	regulation or initiation of RNA replication
+
