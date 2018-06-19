@@ -1,0 +1,26 @@
+# dnaorg_classify.pl :: classify sequences using an HMM library of RefSeqs
+# dnaorg 0.32 (Jun 2018)
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# date:       Tue Jun 19 10:26:52 2018
+# $DNAORGDIR: /panfs/pan1/infernal/notebook/18_0613_virus_classify_weirdos
+#
+# REQUIRED name for output directory to create is <s>:  caliciviridae-classify-build [--dirout]
+# build an HMM library for seqs in <s>, then exit:      /panfs/pan1/infernal/notebook/18_0613_virus_classify_weirdos/35.acc.list [--onlybuild]
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Parsing RefSeq list                                                    ... done. [0.0 seconds]
+# Creating RefSeq HMM Library                                            ... done. [64.4 seconds]
+#
+# Output printed to screen saved in:                                     caliciviridae-classify-build.dnaorg_classify.log
+# List of executed commands saved in:                                    caliciviridae-classify-build.dnaorg_classify.cmd
+# List and description of all output files saved in:                     caliciviridae-classify-build.dnaorg_classify.list
+# List of reference sequences used to build HMMs saved in:               caliciviridae-classify-build.dnaorg_classify.ref.list
+# Fasta file of all RefSeq sequences saved in:                           caliciviridae-classify-build.dnaorg_classify.ref.fa
+# List of RefSeq names from fasta file (may include version) saved in:   caliciviridae-classify-build.dnaorg_classify.ref.fa.list
+# Library of HMMs of RefSeqs saved in:                                   caliciviridae-classify-build.dnaorg_classify.hmm
+#
+# All output files created in directory ./caliciviridae-classify-build/
+#
+# CPU time:  00:01:04.62
+#            hh:mm:ss
+# 
+# DNAORG-SUCCESS
