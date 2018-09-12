@@ -3,7 +3,7 @@
 # Copyright (C) 2016 Howard Hughes Medical Institute.
 # Freely distributed under a BSD open source license.
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# CM file:                                     /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_0409_dnaorg_virus_ebola_build_and_test_seqs/dnaorg-build-directories/ebolavirus-builds/NC_014372/NC_014372.dnaorg_build.7.cm
+# CM file:                                     /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_0722_virus_duplicate_features/dnaorg-build-directories/ebolavirus-builds/NC_014372/NC_014372.dnaorg_build.7.cm
 # total sequence length to search per mode:    0.04 Mb
 # number of worker threads:                    0 [--cpu]
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -24,5 +24,5 @@
 # --------------------  ------- ------- ------- -------  ------- ------- ------- -------  ------- ------- ------- -------
   NC_014372.ref.cds.6.exon.2     7.28    7.33    5.33    5.77    0.517   0.507   0.571   0.668     4154    3356    7687    4357
 #
-# CPU time: 11.84u 0.05s 00:00:11.89 Elapsed: 00:00:11.97
+# CPU time: 11.33u 0.11s 00:00:11.44 Elapsed: 00:00:11.47
 [ok]

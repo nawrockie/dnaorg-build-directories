@@ -3,7 +3,7 @@
 # Copyright (C) 2016 Howard Hughes Medical Institute.
 # Freely distributed under a BSD open source license.
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# CM file:                                     /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_0314_dnaorg_virus_noro_rebuild/dnaorg-build-directories/norovirus-builds/NC_031324/NC_031324.dnaorg_build.0.cm
+# CM file:                                     /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_0722_virus_duplicate_features/dnaorg-build-directories/norovirus-builds/NC_031324/NC_031324.dnaorg_build.0.cm
 # total sequence length to search per mode:    0.04 Mb
 # number of worker threads:                    0 [--cpu]
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -14,7 +14,7 @@
 #                       running time              percent complete                running time
 # model name            (hr:min:sec)  [........25........50........75..........]  (hr:min:sec)
 # --------------------  ------------  ------------------------------------------  ------------
-  NC_031324.ref.mp.1        00:40:16  [========================================]      00:39:40
+  NC_031324.ref.mp.1        00:41:26  [========================================]      00:43:46
 #
 # Calibration summary statistics:
 #
@@ -24,5 +24,5 @@
 # --------------------  ------- ------- ------- -------  ------- ------- ------- -------  ------- ------- ------- -------
   NC_031324.ref.mp.1    -198.28  -46.40   -7.07   -5.59    0.085   0.076   0.752   0.571       32      29   15582   12314
 #
-# CPU time: 2438.99u 4.99s 00:40:43.97 Elapsed: 00:40:45.10
+# CPU time: 2671.29u 4.95s 00:44:36.24 Elapsed: 00:44:53.69
 [ok]

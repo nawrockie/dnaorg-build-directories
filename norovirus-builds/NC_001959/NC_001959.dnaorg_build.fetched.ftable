@@ -7,7 +7,6 @@
 			db_xref	GeneID:1491970
 5	5374	CDS
 			product	nonstructural polyprotein
-			transl_table	1
 			protein_id	ref|NP_056820.1|
 			note	ORF1; sequence homologies to 2C helicase, 3C protease, and 3D RNA-dependent RNA polymerase of picornavirus
 5358	6950	gene
@@ -17,7 +16,6 @@
 			db_xref	GeneID:1491972
 5358	6950	CDS
 			product	VP1
-			transl_table	1
 			protein_id	ref|NP_056821.2|
 			note	ORF2; 58kd capsid protein; major capsid protein
 6950	7588	gene
@@ -27,7 +25,6 @@
 			db_xref	GeneID:1491971
 6950	7588	CDS
 			product	VP2
-			transl_table	1
 			protein_id	ref|NP_056822.1|
 			note	ORF3; minor structural protein; small basic protein
 7589	7654	3'UTR

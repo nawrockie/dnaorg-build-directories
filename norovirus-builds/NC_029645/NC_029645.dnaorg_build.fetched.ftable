@@ -6,7 +6,6 @@
 			db_xref	GeneID:27042395
 22	5076	CDS
 			product	nonstructural polyprotein
-			transl_table	1
 			protein_id	ref|YP_009237900.1|
 5063	6631	gene
 			gene	ORF2
@@ -14,7 +13,6 @@
 			db_xref	GeneID:27042393
 5063	6631	CDS
 			product	VP1
-			transl_table	1
 			protein_id	ref|YP_009237901.1|
 			note	ORF2; major capsid protein
 6621	7271	gene
@@ -23,7 +21,6 @@
 			db_xref	GeneID:27042394
 6621	7271	CDS
 			product	VP2
-			transl_table	1
 			protein_id	ref|YP_009237902.1|
 			note	ORF3; minor structural protein; small basic protein
 7272	7313	3'UTR

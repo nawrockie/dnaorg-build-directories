@@ -11,7 +11,6 @@
 464	2683	CDS
 			product	nucleoprotein
 			function	encapsidation of genomic RNA
-			transl_table	1
 			protein_id	ref|NP_690580.1|
 3003	3013	regulatory
 			note	NP
@@ -27,7 +26,6 @@
 3155	4144	CDS
 			product	polymerase complex protein
 			function	RNA-dependent RNA polymerase cofactor
-			transl_table	1
 			protein_id	ref|NP_690581.1|
 4396	5893	gene
 			gene	VP40
@@ -41,7 +39,6 @@
 4485	5480	CDS
 			product	matrix protein
 			prot_desc	coalesce nucleocapsids and cell membranes in virion assembly (budding)
-			transl_table	1
 			protein_id	ref|NP_690582.1|
 5883	5893	regulatory
 			note	VP40
@@ -59,21 +56,18 @@
 6930	8074
 			product	spike glycoprotein
 			function	receptor binding and fusion
-			transl_table	1
 			protein_id	ref|NP_690583.1|
 			note	structural glycoprotein; cleaved by furin into subunits GP1 and GP2 to yeild a heterodimer linked by a disulfide bond
 			exception	RNA editing
 6042	7145	CDS
 			product	small secreted glycoprotein
 			prot_note	small non-structural secreted glycoprotein; sGP
-			transl_table	1
 			protein_id	ref|NP_690584.1|
 			note	translated from edited mRNA
 6042	6928	CDS
 6930	7038
 			product	second secreted glycoprotein
 			prot_desc	ssGP
-			transl_table	1
 			protein_id	ref|YP_009246340.1|
 			note	second non-structural secreted glycoprotein; super small secreted glycoprotein; secreted in a monomeric form; one A residue is deleted or two additional A residues are inserted at the editing site during transcription of the GP gene
 			exception	RNA editing
@@ -95,7 +89,6 @@
 8490	9353	CDS
 			product	minor nucleoprotein
 			function	encapsidation of genomic RNA
-			transl_table	1
 			protein_id	ref|NP_690585.1|
 9690	9701	regulatory
 			note	VP30
@@ -110,7 +103,6 @@
 			product	VP24
 10303	11058	CDS
 			product	membrane-associated protein
-			transl_table	1
 			protein_id	ref|NP_690586.1|
 11464	18866	gene
 			gene	L
@@ -124,7 +116,6 @@
 11550	18188	CDS
 			product	RNA-dependent RNA polymerase
 			function	synthesis of viral RNAs; transcriptional editing
-			transl_table	1
 			protein_id	ref|NP_690587.1|
 18856	18866	regulatory
 			note	L

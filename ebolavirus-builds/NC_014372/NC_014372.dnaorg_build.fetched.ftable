@@ -14,7 +14,6 @@
 464	2683	CDS
 			product	nucleoprotein
 			function	encapsidation of genomic RNA
-			transl_table	1
 			protein_id	ref|YP_003815423.1|
 3009	3020	regulatory
 			note	putative
@@ -31,7 +30,6 @@
 3114	4139	CDS
 			product	polymerase complex protein
 			function	RNA-dependent RNA polymerase cofactor
-			transl_table	1
 			protein_id	ref|YP_003815424.1|
 			note	putative type-1 IFN antagonist
 4378	5881	gene
@@ -50,7 +48,6 @@
 4467	5447	CDS
 			product	matrix protein
 			function	coalesce nucleocapsids and cell membranes in virion assembly (budding)
-			transl_table	1
 			protein_id	ref|YP_003815425.1|
 5871	5881	regulatory
 			note	putative
@@ -69,19 +66,16 @@
 6911	8056
 			product	spike glycoprotein
 			function	receptor binding and fusion
-			transl_table	1
 			protein_id	ref|YP_003815426.1|
 			note	GP1,2; structural glycoprotein; cleaved by furin into subunits GP1 and GP2 to yield a heterodimer linked by a disulfide bond
 			exception	RNA editing
 6027	7124	CDS
 			product	small secreted glycoprotein
-			transl_table	1
 			protein_id	ref|YP_003815427.1|
 			note	soluble secreted glycoprotein; small non-structural secreted glycoprotein; sGP
 6027	6911	CDS
 6913	6936
 			product	second secreted glycoprotein
-			transl_table	1
 			protein_id	ref|YP_003815428.1|
 			note	ssGP; second non-structural secreted glycoprotein; secreted in a monomeric form; one A residue is deleted or two additional A residues are inserted at the editing site during transcription of the GP gene
 			exception	RNA editing
@@ -106,7 +100,6 @@
 			regulatory_class	polyA_signal_sequence
 8503	9372	CDS
 			product	minor nucleoprotein
-			transl_table	1
 			protein_id	ref|YP_003815429.1|
 			note	polymerase complex protein
 9723	9733	regulatory
@@ -123,7 +116,6 @@
 			regulatory_class	other
 10339	11094	CDS
 			product	membrane-associated protein
-			transl_table	1
 			protein_id	ref|YP_003815430.1|
 11486	18461	gene
 			gene	L
@@ -140,7 +132,6 @@
 			regulatory_class	polyA_signal_sequence
 11566	18198	CDS
 			product	RNA-dependent RNA polymerase
-			transl_table	1
 			protein_id	ref|YP_003815431.1|
 			note	synthesis of viral RNAs; transcriptional RNA editing
 18451	18461	regulatory

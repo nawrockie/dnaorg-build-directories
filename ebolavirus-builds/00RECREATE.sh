@@ -9,6 +9,6 @@ dnaorg_classify.pl --dirout ebolavirus-builds --onlybuild ebolavirus_refseq_list
 # use the -n 1 :
 cd ebolavirus-builds;
 for a in NC_006432 NC_014373 NC_002549 NC_014372 NC_004161; do
-    qsub -N build.$a -b y -v SGE_FACILITIES -P unified -S /bin/bash -cwd -V -j n -o /dev/null -e build.$a.err -l h_rt=28800,mem_free=8G,h_vmem=16G -m n "dnaorg_build.pl -f -n 1 --xfeat gene $a > $a.dnaorg_build.out"
+    qsub -N build.$a -b y -v SGE_FACILITIES -P unified -S /bin/bash -cwd -V -j n -o /dev/null -e build.$a.err -l h_rt=2880000,mem_free=8G,h_vmem=16G -m n "dnaorg_build.pl -f -n 1 --bigram 64 --xfeat gene $a > $a.dnaorg_build.out"
 done
 

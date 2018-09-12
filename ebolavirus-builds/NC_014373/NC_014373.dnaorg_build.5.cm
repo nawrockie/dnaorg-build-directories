@@ -8,9 +8,9 @@ ALPH     RNA
 RF       no
 CONS     yes
 MAP      yes
-DATE     Mon Apr  9 14:54:30 2018
-COM      [1] /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_014373/NC_014373.dnaorg_build.5.cm -
-COM      [2] /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmcalibrate --cpu 0 -L 0.04 /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_0409_dnaorg_virus_ebola_build_and_test_seqs/dnaorg-build-directories/ebolavirus-builds/NC_014373/NC_014373.dnaorg_build.5.cm
+DATE     Wed Aug 22 09:15:36 2018
+COM      [1] /panfs/pan1/infernal/notebook/18_0722_virus_duplicate_features/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_014373/NC_014373.dnaorg_build.5.cm -
+COM      [2] /panfs/pan1/infernal/notebook/18_0722_virus_duplicate_features/infernal-1.1.2/src/cmcalibrate --cpu 0 -L 0.04 /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_0722_virus_duplicate_features/dnaorg-build-directories/ebolavirus-builds/NC_014373/NC_014373.dnaorg_build.5.cm
 PBEGIN   0.05
 PEND     0.05
 WBETA    1e-07
@@ -4534,9 +4534,9 @@ MM    no
 CONS  yes
 CS    yes
 MAP   no
-DATE  Mon Apr  9 14:54:30 2018
-COM   [1] /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_014373/NC_014373.dnaorg_build.5.cm -
-COM   [2] /home/nawrocke/src/dnaorg_install_script/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_014373/NC_014373.dnaorg_build.5.cm -
+DATE  Wed Aug 22 09:15:36 2018
+COM   [1] /panfs/pan1/infernal/notebook/18_0722_virus_duplicate_features/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_014373/NC_014373.dnaorg_build.5.cm -
+COM   [2] /panfs/pan1/infernal/notebook/18_0722_virus_duplicate_features/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_014373/NC_014373.dnaorg_build.5.cm -
 NSEQ  1
 EFFN  1.000000
 STATS LOCAL MSV      -13.5006  0.69693

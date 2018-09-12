@@ -6,7 +6,6 @@
 			db_xref	GeneID:27042434
 5	5104	CDS
 			product	nonstructural polyprotein
-			transl_table	1
 			protein_id	ref|YP_009237897.1|
 			note	N-terminal, helicase, VPg, 3Cpro, RdRp, orf1, RNA polymerase
 5085	6692	gene
@@ -15,7 +14,6 @@
 			db_xref	GeneID:27042432
 5085	6692	CDS
 			product	VP1
-			transl_table	1
 			protein_id	ref|YP_009237898.1|
 			note	ORF2; major capsid protein
 6692	7471	gene
@@ -25,7 +23,6 @@
 6692	7471	CDS
 			product	VP2
 			prot_note	ORF3; minor structural protein; small basic protein
-			transl_table	1
 			protein_id	ref|YP_009237899.1|
 7472	7518	3'UTR
 

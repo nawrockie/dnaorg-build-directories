@@ -15,7 +15,6 @@
 458	2674	CDS
 			product	nucleoprotein
 			function	encapsidation of genomic RNA
-			transl_table	1
 			protein_id	ref|YP_138520.1|
 			note	predominant component of nucleocapsid
 2496	3007	regulatory
@@ -32,7 +31,6 @@
 3138	4127	CDS
 			product	polymerase complex protein
 			prot_desc	RNA-dependent RNA polymerase cofactor
-			transl_table	1
 			protein_id	ref|YP_138521.1|
 			note	cofactor in polymerase complex; type I IFN antagonist
 4365	5875	gene
@@ -43,7 +41,6 @@
 			product	VP40
 4365	4376	regulatory
 			gene	VP40
-			locus_tag	SEVgp3
 			note	predicted transcription start site
 			regulatory_class	other
 4372	4382	regulatory
@@ -51,7 +48,6 @@
 4454	5434	CDS
 			product	matrix protein
 			function	coalesce nucleocapsids and cell membranes in virion assembly (budding)
-			transl_table	1
 			protein_id	ref|YP_138522.1|
 			note	most abundant protein in virion
 5864	5875	regulatory
@@ -66,20 +62,17 @@
 5998	6882	CDS
 6882	8027
 			product	spike glycoprotein
-			transl_table	1
 			protein_id	ref|YP_138523.1|
 			note	structural glycoprotein; processed by furin to yield GP1-GP2 heterodimer that forms membrane-anchored trimers (peplomers)
 			exception	RNA editing
 5998	7116	CDS
 			product	small secreted glycoprotein
-			transl_table	1
 			protein_id	ref|YP_138524.1|
 			note	small non-structural secreted glycoprotein; forms dimers linked by disulfide bonds (parallel orientation); processed by furin to yield sGP and delta peptide; sGP
 5998	6881	CDS
 6883	6955
 			product	second secreted glycoprotein
 			prot_desc	ssGP
-			transl_table	1
 			protein_id	ref|YP_009246341.1|
 			note	second non-structural secreted glycoprotein; super small secreted glycoprotein; secreted in a monomeric form; one A residue is deleted or two additional A residues are inserted at the editing site during transcription of the GP gene
 			exception	RNA editing
@@ -100,7 +93,6 @@
 8441	9307	CDS
 			product	minor nucleoprotein
 			function	encapsidation of genomic RNA
-			transl_table	1
 			protein_id	ref|YP_138525.1|
 9686	9697	regulatory
 			regulatory_class	polyA_signal_sequence
@@ -115,7 +107,6 @@
 			regulatory_class	other
 10299	11054	CDS
 			product	membrane-associated protein
-			transl_table	1
 			protein_id	ref|YP_138526.1|
 11457	18494	gene
 			gene	L
@@ -132,7 +123,6 @@
 11535	18167	CDS
 			product	RNA-dependent RNA polymerase
 			function	synthesis of viral RNAs; transcriptional editing
-			transl_table	1
 			protein_id	ref|YP_138527.1|
 			note	translation may start at the 2nd methionine codon of the ORF
 18483	18494	regulatory

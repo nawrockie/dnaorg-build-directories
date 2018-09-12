@@ -7,7 +7,6 @@
 			db_xref	GeneID:4246735
 6	5069	CDS
 			product	nonstructural polyprotein
-			transl_table	1
 			protein_id	ref|YP_720001.1|
 			note	ORF1; encodes helicase, protease, and polymerase
 5056	6681	gene
@@ -18,7 +17,6 @@
 5056	6681	CDS
 			product	VP1
 			prot_note	formerly known as 'ORF2 protein'
-			transl_table	1
 			protein_id	ref|YP_720002.1|
 			note	capsid protein VP1
 5069	5710	gene
@@ -29,7 +27,6 @@
 5069	5710	CDS
 			product	VF1
 			prot_note	formerly called ORF4
-			transl_table	1
 			protein_id	ref|YP_006390081.1|
 			note	Virulence factor 1 has been added by NCBI Staff with the kind help of Dr. David Karlin(Department of Zoology, University of Oxford, UK).
 6681	7307	gene
@@ -40,7 +37,6 @@
 6681	7307	CDS
 			product	VP2
 			prot_note	minor capsid protein VP2; formerly known as 'ORF3 protein'; small basic protein
-			transl_table	1
 			protein_id	ref|YP_720003.1|
 7308	7382	3'UTR
 

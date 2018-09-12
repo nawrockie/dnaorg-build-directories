@@ -3,7 +3,7 @@
 # Copyright (C) 2016 Howard Hughes Medical Institute.
 # Freely distributed under a BSD open source license.
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# CM file:                                     /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_0409_dnaorg_virus_ebola_build_and_test_seqs/dnaorg-build-directories/ebolavirus-builds/NC_014373/NC_014373.dnaorg_build.9.cm
+# CM file:                                     /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_0722_virus_duplicate_features/dnaorg-build-directories/ebolavirus-builds/NC_014373/NC_014373.dnaorg_build.9.cm
 # total sequence length to search per mode:    0.04 Mb
 # number of worker threads:                    0 [--cpu]
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -14,7 +14,7 @@
 #                       running time              percent complete                running time
 # model name            (hr:min:sec)  [........25........50........75..........]  (hr:min:sec)
 # --------------------  ------------  ------------------------------------------  ------------
-  NC_014373.ref.cds.8       00:23:35  [========================================]      00:22:49
+  NC_014373.ref.cds.8       00:23:29  [========================================]      00:23:52
 #
 # Calibration summary statistics:
 #
@@ -24,5 +24,5 @@
 # --------------------  ------- ------- ------- -------  ------- ------- ------- -------  ------- ------- ------- -------
   NC_014373.ref.cds.8   -112.00  -16.57   -6.12   -4.49    0.224   0.261   0.891   0.618       46      45   17098   13422
 #
-# CPU time: 1393.94u 2.21s 00:23:16.15 Elapsed: 00:23:16.44
+# CPU time: 1455.08u 4.32s 00:24:19.40 Elapsed: 00:24:19.87
 [ok]
