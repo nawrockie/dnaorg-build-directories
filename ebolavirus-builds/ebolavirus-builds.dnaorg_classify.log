@@ -1,14 +1,14 @@
 # dnaorg_classify.pl :: classify sequences using an HMM library of RefSeqs
-# dnaorg 0.33 (Jun 2018)
+# dnaorg 0.36 (Sept 2018)
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# date:       Tue Aug 21 10:05:15 2018
-# $DNAORGDIR: /panfs/pan1/infernal/notebook/18_0722_virus_duplicate_features
+# date:       Mon Oct 29 11:43:18 2018
+# $DNAORGDIR: /panfs/pan1/infernal/notebook/18_1002_virus_dnaorg_protein_validation
 #
-# REQUIRED name for output directory to create is <s>:  ebolavirus-builds [--dirout]
+# REQUIRED name for output directory to create is <s>:  ebolavirus-builds [--dirout]            
 # build an HMM library for seqs in <s>, then exit:      ebolavirus_refseq_list.txt [--onlybuild]
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Parsing RefSeq list                                                    ... done. [0.0 seconds]
-# Creating RefSeq HMM Library                                            ... done. [36.2 seconds]
+# Creating RefSeq HMM Library                                            ... done. [34.0 seconds]
 #
 # Output printed to screen saved in:                                     ebolavirus-builds.dnaorg_classify.log
 # List of executed commands saved in:                                    ebolavirus-builds.dnaorg_classify.cmd
@@ -20,7 +20,7 @@
 #
 # All output files created in directory ./ebolavirus-builds/
 #
-# CPU time:  00:00:36.29
+# CPU time:  00:00:34.12
 #            hh:mm:ss
 # 
 # DNAORG-SUCCESS

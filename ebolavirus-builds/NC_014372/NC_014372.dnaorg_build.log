@@ -1,26 +1,27 @@
 # dnaorg_build.pl :: build homology models for features of a reference sequence
-# dnaorg 0.34 (Aug 2018)
+# dnaorg 0.36 (Sept 2018)
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# date:       Thu Aug 23 14:09:11 2018
-# $DNAORGDIR: /panfs/pan1/infernal/notebook/18_0722_virus_duplicate_features
+# date:       Mon Oct 29 11:43:59 2018
+# $DNAORGDIR: /panfs/pan1/infernal/notebook/18_1002_virus_dnaorg_protein_validation
 #
-# reference accession:                                         NC_014372
-# forcing directory overwrite:                                 yes [-f]
-# set number of CPUs for calibration to <n>:                   1 [-n]
+# reference accession:                                         NC_014372     
+# forcing directory overwrite:                                 yes [-f]      
+# set number of CPUs for calibration to <n>:                   1 [-n]        
 # build models of additional qualifiers:                       gene [--xfeat]
-# for big models, set Gb RAM per core for calibration to <n>:  48 [--bigram]
+# for big models, set Gb RAM per core for calibration to <n>:  64 [--bigram] 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Outputting information on options used for future use with dnaorg_annotate.pl    ... done. [0.0 seconds]
-# Gathering information on reference using edirect                                 ... done. [9.1 seconds]
-# Fetching and processing the reference genome                                     ... done. [2.6 seconds]
+# Gathering information on reference using edirect                                 ... done. [9.6 seconds]
+# Fetching and processing the reference genome                                     ... done. [4.1 seconds]
+# Fetching protein translations of CDS and building BLAST DB                       ... done. [3.3 seconds]
 # Submitting jobs to build models to compute farm and waiting for them to finish   ... 
 #	   1 of   18 jobs finished (0.2 minutes spent waiting)
 #	   9 of   18 jobs finished (0.5 minutes spent waiting)
 #	  12 of   18 jobs finished (0.8 minutes spent waiting)
-#	  12 of   18 jobs finished (1.0 minutes spent waiting)
-#	  14 of   18 jobs finished (1.2 minutes spent waiting)
-#	  14 of   18 jobs finished (1.5 minutes spent waiting)
-#	  14 of   18 jobs finished (1.8 minutes spent waiting)
+#	  13 of   18 jobs finished (1.0 minutes spent waiting)
+#	  13 of   18 jobs finished (1.2 minutes spent waiting)
+#	  15 of   18 jobs finished (1.5 minutes spent waiting)
+#	  15 of   18 jobs finished (1.8 minutes spent waiting)
 #	  15 of   18 jobs finished (2.0 minutes spent waiting)
 #	  16 of   18 jobs finished (2.5 minutes spent waiting)
 #	  16 of   18 jobs finished (3.5 minutes spent waiting)
@@ -29,7 +30,7 @@
 #	  16 of   18 jobs finished (9.5 minutes spent waiting)
 #	  17 of   18 jobs finished (11.5 minutes spent waiting)
 #	  18 of   18 jobs finished (13.5 minutes spent waiting)
-# done. [815.3 seconds]
+# done. [812.0 seconds]
 # Submitting jobs to calibrate models to compute farm and waiting for them to finish ... 
 #	   0 of   18 jobs finished (0.2 minutes spent waiting)
 #	   1 of   18 jobs finished (0.5 minutes spent waiting)
@@ -50,34 +51,34 @@
 #	   1 of   18 jobs finished (17.5 minutes spent waiting)
 #	   1 of   18 jobs finished (19.5 minutes spent waiting)
 #	   1 of   18 jobs finished (21.5 minutes spent waiting)
-#	   1 of   18 jobs finished (23.5 minutes spent waiting)
+#	   2 of   18 jobs finished (23.5 minutes spent waiting)
 #	   2 of   18 jobs finished (25.5 minutes spent waiting)
 #	   2 of   18 jobs finished (27.5 minutes spent waiting)
-#	   3 of   18 jobs finished (29.5 minutes spent waiting)
+#	   4 of   18 jobs finished (29.5 minutes spent waiting)
 #	   5 of   18 jobs finished (31.5 minutes spent waiting)
 #	   5 of   18 jobs finished (33.5 minutes spent waiting)
-#	   6 of   18 jobs finished (35.5 minutes spent waiting)
+#	   7 of   18 jobs finished (35.5 minutes spent waiting)
 #	   7 of   18 jobs finished (37.5 minutes spent waiting)
-#	   7 of   18 jobs finished (39.5 minutes spent waiting)
-#	   7 of   18 jobs finished (41.5 minutes spent waiting)
+#	   8 of   18 jobs finished (39.5 minutes spent waiting)
+#	   8 of   18 jobs finished (41.5 minutes spent waiting)
 #	   9 of   18 jobs finished (43.5 minutes spent waiting)
 #	   9 of   18 jobs finished (45.5 minutes spent waiting)
 #	   9 of   18 jobs finished (47.5 minutes spent waiting)
 #	   9 of   18 jobs finished (49.5 minutes spent waiting)
-#	   9 of   18 jobs finished (51.5 minutes spent waiting)
-#	   9 of   18 jobs finished (53.5 minutes spent waiting)
-#	   9 of   18 jobs finished (55.5 minutes spent waiting)
+#	  10 of   18 jobs finished (51.5 minutes spent waiting)
+#	  10 of   18 jobs finished (53.5 minutes spent waiting)
+#	  10 of   18 jobs finished (55.5 minutes spent waiting)
 #	  11 of   18 jobs finished (57.5 minutes spent waiting)
-#	  11 of   18 jobs finished (59.5 minutes spent waiting)
-#	  11 of   18 jobs finished (61.5 minutes spent waiting)
-#	  11 of   18 jobs finished (63.5 minutes spent waiting)
-#	  11 of   18 jobs finished (65.5 minutes spent waiting)
-#	  11 of   18 jobs finished (67.5 minutes spent waiting)
-#	  11 of   18 jobs finished (69.5 minutes spent waiting)
-#	  11 of   18 jobs finished (71.5 minutes spent waiting)
-#	  11 of   18 jobs finished (73.5 minutes spent waiting)
-#	  12 of   18 jobs finished (75.5 minutes spent waiting)
-#	  12 of   18 jobs finished (77.5 minutes spent waiting)
+#	  12 of   18 jobs finished (59.5 minutes spent waiting)
+#	  12 of   18 jobs finished (61.5 minutes spent waiting)
+#	  12 of   18 jobs finished (63.5 minutes spent waiting)
+#	  13 of   18 jobs finished (65.5 minutes spent waiting)
+#	  13 of   18 jobs finished (67.5 minutes spent waiting)
+#	  13 of   18 jobs finished (69.5 minutes spent waiting)
+#	  13 of   18 jobs finished (71.5 minutes spent waiting)
+#	  13 of   18 jobs finished (73.5 minutes spent waiting)
+#	  13 of   18 jobs finished (75.5 minutes spent waiting)
+#	  13 of   18 jobs finished (77.5 minutes spent waiting)
 #	  13 of   18 jobs finished (79.5 minutes spent waiting)
 #	  13 of   18 jobs finished (81.5 minutes spent waiting)
 #	  13 of   18 jobs finished (83.5 minutes spent waiting)
@@ -89,8 +90,8 @@
 #	  13 of   18 jobs finished (95.5 minutes spent waiting)
 #	  13 of   18 jobs finished (97.5 minutes spent waiting)
 #	  13 of   18 jobs finished (99.5 minutes spent waiting)
-#	  13 of   18 jobs finished (101.5 minutes spent waiting)
-#	  13 of   18 jobs finished (103.5 minutes spent waiting)
+#	  14 of   18 jobs finished (101.5 minutes spent waiting)
+#	  14 of   18 jobs finished (103.5 minutes spent waiting)
 #	  14 of   18 jobs finished (105.5 minutes spent waiting)
 #	  14 of   18 jobs finished (107.5 minutes spent waiting)
 #	  15 of   18 jobs finished (109.5 minutes spent waiting)
@@ -99,13 +100,13 @@
 #	  15 of   18 jobs finished (115.5 minutes spent waiting)
 #	  15 of   18 jobs finished (117.5 minutes spent waiting)
 #	  15 of   18 jobs finished (119.5 minutes spent waiting)
-#	  15 of   18 jobs finished (121.5 minutes spent waiting)
-#	  15 of   18 jobs finished (123.5 minutes spent waiting)
-#	  15 of   18 jobs finished (125.5 minutes spent waiting)
-#	  15 of   18 jobs finished (127.5 minutes spent waiting)
-#	  15 of   18 jobs finished (129.5 minutes spent waiting)
-#	  15 of   18 jobs finished (131.5 minutes spent waiting)
-#	  15 of   18 jobs finished (133.5 minutes spent waiting)
+#	  16 of   18 jobs finished (121.5 minutes spent waiting)
+#	  16 of   18 jobs finished (123.5 minutes spent waiting)
+#	  16 of   18 jobs finished (125.5 minutes spent waiting)
+#	  16 of   18 jobs finished (127.5 minutes spent waiting)
+#	  16 of   18 jobs finished (129.5 minutes spent waiting)
+#	  16 of   18 jobs finished (131.5 minutes spent waiting)
+#	  16 of   18 jobs finished (133.5 minutes spent waiting)
 #	  16 of   18 jobs finished (135.5 minutes spent waiting)
 #	  16 of   18 jobs finished (137.5 minutes spent waiting)
 #	  16 of   18 jobs finished (139.5 minutes spent waiting)
@@ -202,10 +203,10 @@
 #	  16 of   18 jobs finished (321.5 minutes spent waiting)
 #	  16 of   18 jobs finished (323.5 minutes spent waiting)
 #	  16 of   18 jobs finished (325.5 minutes spent waiting)
-#	  17 of   18 jobs finished (327.5 minutes spent waiting)
-#	  17 of   18 jobs finished (329.5 minutes spent waiting)
-#	  17 of   18 jobs finished (331.5 minutes spent waiting)
-#	  17 of   18 jobs finished (333.5 minutes spent waiting)
+#	  16 of   18 jobs finished (327.5 minutes spent waiting)
+#	  16 of   18 jobs finished (329.5 minutes spent waiting)
+#	  16 of   18 jobs finished (331.5 minutes spent waiting)
+#	  16 of   18 jobs finished (333.5 minutes spent waiting)
 #	  17 of   18 jobs finished (335.5 minutes spent waiting)
 #	  17 of   18 jobs finished (337.5 minutes spent waiting)
 #	  17 of   18 jobs finished (339.5 minutes spent waiting)
@@ -225,31 +226,8 @@
 #	  17 of   18 jobs finished (367.5 minutes spent waiting)
 #	  17 of   18 jobs finished (369.5 minutes spent waiting)
 #	  17 of   18 jobs finished (371.5 minutes spent waiting)
-#	  17 of   18 jobs finished (373.5 minutes spent waiting)
-#	  17 of   18 jobs finished (375.5 minutes spent waiting)
-#	  17 of   18 jobs finished (377.5 minutes spent waiting)
-#	  17 of   18 jobs finished (379.5 minutes spent waiting)
-#	  17 of   18 jobs finished (381.5 minutes spent waiting)
-#	  17 of   18 jobs finished (383.5 minutes spent waiting)
-#	  17 of   18 jobs finished (385.5 minutes spent waiting)
-#	  17 of   18 jobs finished (387.5 minutes spent waiting)
-#	  17 of   18 jobs finished (389.5 minutes spent waiting)
-#	  17 of   18 jobs finished (391.5 minutes spent waiting)
-#	  17 of   18 jobs finished (393.5 minutes spent waiting)
-#	  17 of   18 jobs finished (395.5 minutes spent waiting)
-#	  17 of   18 jobs finished (397.5 minutes spent waiting)
-#	  17 of   18 jobs finished (399.5 minutes spent waiting)
-#	  17 of   18 jobs finished (401.5 minutes spent waiting)
-#	  17 of   18 jobs finished (403.5 minutes spent waiting)
-#	  17 of   18 jobs finished (405.5 minutes spent waiting)
-#	  17 of   18 jobs finished (407.5 minutes spent waiting)
-#	  17 of   18 jobs finished (409.5 minutes spent waiting)
-#	  17 of   18 jobs finished (411.5 minutes spent waiting)
-#	  17 of   18 jobs finished (413.5 minutes spent waiting)
-#	  17 of   18 jobs finished (415.5 minutes spent waiting)
-#	  17 of   18 jobs finished (417.5 minutes spent waiting)
-#	  18 of   18 jobs finished (419.5 minutes spent waiting)
-# done. [25468.9 seconds]
+#	  18 of   18 jobs finished (373.5 minutes spent waiting)
+# done. [22481.7 seconds]
 #
 # You can now use dnaorg_annotate.pl to annotate genomes with the models that
 # you've created here.
@@ -280,7 +258,7 @@
 #
 # All output files created in directory ./NC_014372/
 #
-# CPU time:  07:18:16.54
+# CPU time:  06:28:30.72
 #            hh:mm:ss
 # 
 # DNAORG-SUCCESS

@@ -8,9 +8,9 @@ ALPH     RNA
 RF       no
 CONS     yes
 MAP      yes
-DATE     Wed Aug 22 09:15:35 2018
-COM      [1] /panfs/pan1/infernal/notebook/18_0722_virus_duplicate_features/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_002549/NC_002549.dnaorg_build.5.cm -
-COM      [2] /panfs/pan1/infernal/notebook/18_0722_virus_duplicate_features/infernal-1.1.2/src/cmcalibrate --cpu 0 -L 0.04 /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_0722_virus_duplicate_features/dnaorg-build-directories/ebolavirus-builds/NC_002549/NC_002549.dnaorg_build.5.cm
+DATE     Mon Oct 29 11:44:26 2018
+COM      [1] /panfs/pan1/infernal/notebook/18_1002_virus_dnaorg_protein_validation/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_002549/NC_002549.dnaorg_build.5.cm -
+COM      [2] /panfs/pan1/infernal/notebook/18_1002_virus_dnaorg_protein_validation/infernal-1.1.2/src/cmcalibrate --cpu 0 -L 0.04 /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_1002_virus_dnaorg_protein_validation/dnaorg-build-directories/ebolavirus-builds/NC_002549/NC_002549.dnaorg_build.5.cm
 PBEGIN   0.05
 PEND     0.05
 WBETA    1e-07
@@ -4426,9 +4426,9 @@ MM    no
 CONS  yes
 CS    yes
 MAP   no
-DATE  Wed Aug 22 09:15:35 2018
-COM   [1] /panfs/pan1/infernal/notebook/18_0722_virus_duplicate_features/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_002549/NC_002549.dnaorg_build.5.cm -
-COM   [2] /panfs/pan1/infernal/notebook/18_0722_virus_duplicate_features/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_002549/NC_002549.dnaorg_build.5.cm -
+DATE  Mon Oct 29 11:44:26 2018
+COM   [1] /panfs/pan1/infernal/notebook/18_1002_virus_dnaorg_protein_validation/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_002549/NC_002549.dnaorg_build.5.cm -
+COM   [2] /panfs/pan1/infernal/notebook/18_1002_virus_dnaorg_protein_validation/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_002549/NC_002549.dnaorg_build.5.cm -
 NSEQ  1
 EFFN  1.000000
 STATS LOCAL MSV      -13.1796  0.69698

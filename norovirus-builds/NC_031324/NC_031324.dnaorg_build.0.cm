@@ -8,9 +8,9 @@ ALPH     RNA
 RF       no
 CONS     yes
 MAP      yes
-DATE     Tue Aug 21 09:59:20 2018
-COM      [1] /panfs/pan1/infernal/notebook/18_0722_virus_duplicate_features/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_031324/NC_031324.dnaorg_build.0.cm -
-COM      [2] /panfs/pan1/infernal/notebook/18_0722_virus_duplicate_features/infernal-1.1.2/src/cmcalibrate --cpu 0 -L 0.04 /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_0722_virus_duplicate_features/dnaorg-build-directories/norovirus-builds/NC_031324/NC_031324.dnaorg_build.0.cm
+DATE     Wed Oct 24 14:44:57 2018
+COM      [1] /panfs/pan1/infernal/notebook/18_1002_virus_dnaorg_protein_validation/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_031324/NC_031324.dnaorg_build.0.cm -
+COM      [2] /panfs/pan1/infernal/notebook/18_1002_virus_dnaorg_protein_validation/infernal-1.1.2/src/cmcalibrate --cpu 0 -L 0.04 /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_1002_virus_dnaorg_protein_validation/dnaorg-build-directories/norovirus-builds/NC_031324/NC_031324.dnaorg_build.0.cm
 PBEGIN   0.05
 PEND     0.05
 WBETA    1e-07
@@ -4546,9 +4546,9 @@ MM    no
 CONS  yes
 CS    yes
 MAP   no
-DATE  Tue Aug 21 09:59:21 2018
-COM   [1] /panfs/pan1/infernal/notebook/18_0722_virus_duplicate_features/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_031324/NC_031324.dnaorg_build.0.cm -
-COM   [2] /panfs/pan1/infernal/notebook/18_0722_virus_duplicate_features/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_031324/NC_031324.dnaorg_build.0.cm -
+DATE  Wed Oct 24 14:44:57 2018
+COM   [1] /panfs/pan1/infernal/notebook/18_1002_virus_dnaorg_protein_validation/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_031324/NC_031324.dnaorg_build.0.cm -
+COM   [2] /panfs/pan1/infernal/notebook/18_1002_virus_dnaorg_protein_validation/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_031324/NC_031324.dnaorg_build.0.cm -
 NSEQ  1
 EFFN  1.000000
 STATS LOCAL MSV      -13.3276  0.69687
