@@ -1,14 +1,14 @@
 # dnaorg_classify.pl :: classify sequences using an HMM library of RefSeqs
-# dnaorg 0.36 (Sept 2018)
+# dnaorg 0.38 (Nov 2018)
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# date:       Wed Oct 24 14:43:59 2018
-# $DNAORGDIR: /panfs/pan1/infernal/notebook/18_1002_virus_dnaorg_protein_validation
+# date:       Tue Nov 20 11:17:11 2018
+# $DNAORGDIR: /panfs/pan1/dnaorg/virseqannot/code
 #
-# REQUIRED name for output directory to create is <s>:  norovirus-builds [--dirout]            
+# REQUIRED name for output directory to create is <s>:  norovirus-builds [--dirout]
 # build an HMM library for seqs in <s>, then exit:      norovirus_refseq_list.txt [--onlybuild]
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# Parsing RefSeq list                                                    ... done. [0.0 seconds]
-# Creating RefSeq HMM Library                                            ... done. [12.6 seconds]
+# Parsing RefSeq list                                                    ... done. [0.1 seconds]
+# Creating RefSeq HMM Library                                            ... done. [24.0 seconds]
 #
 # Output printed to screen saved in:                                     norovirus-builds.dnaorg_classify.log
 # List of executed commands saved in:                                    norovirus-builds.dnaorg_classify.cmd
@@ -20,7 +20,7 @@
 #
 # All output files created in directory ./norovirus-builds/
 #
-# CPU time:  00:00:12.68
+# CPU time:  00:00:24.44
 #            hh:mm:ss
 # 
 # DNAORG-SUCCESS

@@ -8,9 +8,9 @@ ALPH     RNA
 RF       no
 CONS     yes
 MAP      yes
-DATE     Wed Oct 24 14:44:56 2018
-COM      [1] /panfs/pan1/infernal/notebook/18_1002_virus_dnaorg_protein_validation/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_029645/NC_029645.dnaorg_build.0.cm -
-COM      [2] /panfs/pan1/infernal/notebook/18_1002_virus_dnaorg_protein_validation/infernal-1.1.2/src/cmcalibrate --cpu 0 -L 0.04 /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_1002_virus_dnaorg_protein_validation/dnaorg-build-directories/norovirus-builds/NC_029645/NC_029645.dnaorg_build.0.cm
+DATE     Tue Nov 20 11:18:53 2018
+COM      [1] /panfs/pan1/dnaorg/virseqannot/code/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_029645/NC_029645.dnaorg_build.0.cm -
+COM      [2] /panfs/pan1/dnaorg/virseqannot/code/infernal-1.1.2/src/cmcalibrate --cpu 0 -L 0.04 /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_1120_virus_new_norovirus_refseqs/dnaorg-build-directories/norovirus-builds/NC_029645/NC_029645.dnaorg_build.0.cm
 PBEGIN   0.05
 PEND     0.05
 WBETA    1e-07
@@ -3994,9 +3994,9 @@ MM    no
 CONS  yes
 CS    yes
 MAP   no
-DATE  Wed Oct 24 14:44:57 2018
-COM   [1] /panfs/pan1/infernal/notebook/18_1002_virus_dnaorg_protein_validation/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_029645/NC_029645.dnaorg_build.0.cm -
-COM   [2] /panfs/pan1/infernal/notebook/18_1002_virus_dnaorg_protein_validation/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_029645/NC_029645.dnaorg_build.0.cm -
+DATE  Tue Nov 20 11:18:54 2018
+COM   [1] /panfs/pan1/dnaorg/virseqannot/code/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_029645/NC_029645.dnaorg_build.0.cm -
+COM   [2] /panfs/pan1/dnaorg/virseqannot/code/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_029645/NC_029645.dnaorg_build.0.cm -
 NSEQ  1
 EFFN  1.000000
 STATS LOCAL MSV      -13.7948  0.69742

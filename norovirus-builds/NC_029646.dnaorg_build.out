@@ -1,24 +1,24 @@
 # dnaorg_build.pl :: build homology models for features of a reference sequence
-# dnaorg 0.36 (Sept 2018)
+# dnaorg 0.38 (Nov 2018)
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# date:       Wed Oct 24 14:44:37 2018
-# $DNAORGDIR: /panfs/pan1/infernal/notebook/18_1002_virus_dnaorg_protein_validation
+# date:       Tue Nov 20 11:18:35 2018
+# $DNAORGDIR: /panfs/pan1/dnaorg/virseqannot/code
 #
-# reference accession:                           NC_029646                       
-# forcing directory overwrite:                   yes [-f]                        
-# set number of CPUs for calibration to <n>:     1 [-n]                          
+# reference accession:                           NC_029646
+# forcing directory overwrite:                   yes [-f]
+# set number of CPUs for calibration to <n>:     1 [-n]
 # using pre-specified mat_peptide info:          NC_029646.matpept.in [--matpept]
-# annotate additional qualifiers as duplicates:  gene [--dfeat]                  
+# annotate additional qualifiers as duplicates:  gene [--dfeat]
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Outputting information on options used for future use with dnaorg_annotate.pl    ... done. [0.2 seconds]
-# Gathering information on reference using edirect                                 ... done. [5.5 seconds]
-# Fetching and processing the reference genome                                     ... done. [1.8 seconds]
-# Fetching protein translations of CDS and building BLAST DB                       ... done. [2.5 seconds]
+# Gathering information on reference using edirect                                 ... done. [4.3 seconds]
+# Fetching and processing the reference genome                                     ... done. [2.7 seconds]
+# Fetching protein translations of CDS and building BLAST DB                       ... done. [1.8 seconds]
 # Submitting jobs to build models to compute farm and waiting for them to finish   ... 
 #	   3 of    8 jobs finished (0.2 minutes spent waiting)
 #	   6 of    8 jobs finished (0.5 minutes spent waiting)
 #	   8 of    8 jobs finished (0.8 minutes spent waiting)
-# done. [45.7 seconds]
+# done. [46.3 seconds]
 # Submitting jobs to calibrate models to compute farm and waiting for them to finish ... 
 #	   0 of    8 jobs finished (0.2 minutes spent waiting)
 #	   0 of    8 jobs finished (0.5 minutes spent waiting)
@@ -40,14 +40,14 @@
 #	   3 of    8 jobs finished (19.5 minutes spent waiting)
 #	   3 of    8 jobs finished (21.5 minutes spent waiting)
 #	   3 of    8 jobs finished (23.5 minutes spent waiting)
-#	   3 of    8 jobs finished (25.5 minutes spent waiting)
+#	   4 of    8 jobs finished (25.5 minutes spent waiting)
 #	   4 of    8 jobs finished (27.5 minutes spent waiting)
 #	   4 of    8 jobs finished (29.5 minutes spent waiting)
 #	   4 of    8 jobs finished (31.5 minutes spent waiting)
 #	   4 of    8 jobs finished (33.5 minutes spent waiting)
 #	   5 of    8 jobs finished (35.5 minutes spent waiting)
-#	   5 of    8 jobs finished (37.5 minutes spent waiting)
-#	   5 of    8 jobs finished (39.5 minutes spent waiting)
+#	   6 of    8 jobs finished (37.5 minutes spent waiting)
+#	   6 of    8 jobs finished (39.5 minutes spent waiting)
 #	   6 of    8 jobs finished (41.5 minutes spent waiting)
 #	   6 of    8 jobs finished (43.5 minutes spent waiting)
 #	   6 of    8 jobs finished (45.5 minutes spent waiting)
@@ -58,28 +58,9 @@
 #	   6 of    8 jobs finished (55.5 minutes spent waiting)
 #	   6 of    8 jobs finished (57.5 minutes spent waiting)
 #	   6 of    8 jobs finished (59.5 minutes spent waiting)
-#	   6 of    8 jobs finished (61.5 minutes spent waiting)
-#	   6 of    8 jobs finished (63.5 minutes spent waiting)
-#	   6 of    8 jobs finished (65.5 minutes spent waiting)
-#	   6 of    8 jobs finished (67.5 minutes spent waiting)
-#	   6 of    8 jobs finished (69.5 minutes spent waiting)
-#	   6 of    8 jobs finished (71.5 minutes spent waiting)
-#	   6 of    8 jobs finished (73.5 minutes spent waiting)
-#	   6 of    8 jobs finished (75.5 minutes spent waiting)
-#	   6 of    8 jobs finished (77.5 minutes spent waiting)
-#	   6 of    8 jobs finished (79.5 minutes spent waiting)
-#	   6 of    8 jobs finished (81.5 minutes spent waiting)
-#	   6 of    8 jobs finished (83.5 minutes spent waiting)
-#	   6 of    8 jobs finished (85.5 minutes spent waiting)
-#	   6 of    8 jobs finished (87.5 minutes spent waiting)
-#	   6 of    8 jobs finished (89.5 minutes spent waiting)
-#	   6 of    8 jobs finished (91.5 minutes spent waiting)
-#	   6 of    8 jobs finished (93.5 minutes spent waiting)
-#	   6 of    8 jobs finished (95.5 minutes spent waiting)
-#	   7 of    8 jobs finished (97.5 minutes spent waiting)
-#	   7 of    8 jobs finished (99.5 minutes spent waiting)
-#	   8 of    8 jobs finished (101.5 minutes spent waiting)
-# done. [6133.8 seconds]
+#	   7 of    8 jobs finished (61.5 minutes spent waiting)
+#	   8 of    8 jobs finished (63.5 minutes spent waiting)
+# done. [3830.3 seconds]
 #
 # You can now use dnaorg_annotate.pl to annotate genomes with the models that
 # you've created here.
@@ -100,7 +81,7 @@
 #
 # All output files created in directory ./NC_029646/
 #
-# CPU time:  01:43:09.68
+# CPU time:  01:04:45.85
 #            hh:mm:ss
 # 
 # DNAORG-SUCCESS

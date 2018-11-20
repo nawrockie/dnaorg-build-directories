@@ -1,0 +1,23 @@
+>Feature ref|NC_039477.1|
+5	5104	gene
+			gene	ORF1
+			locus_tag	D9V40_gp1
+			db_xref	GeneID:38168217
+5	5104	CDS
+			product	nonstructural polyprotein
+			protein_id	ref|YP_009518841.1|
+5085	6707	gene
+			gene	ORF2
+			locus_tag	D9V40_gp2
+			db_xref	GeneID:38168215
+5085	6707	CDS
+			product	VP1
+			protein_id	ref|YP_009518842.1|
+6707	7513	gene
+			gene	ORF3
+			locus_tag	D9V40_gp3
+			db_xref	GeneID:38168216
+6707	7513	CDS
+			product	VP2
+			protein_id	ref|YP_009518843.1|
+
