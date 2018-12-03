@@ -1,0 +1,8 @@
+# List of reference sequences used to build HMMs saved in:                         flaviviridae-classify-build.dnaorg_classify.ref.list
+# Fasta file of all RefSeq sequences saved in:                                     flaviviridae-classify-build.dnaorg_classify.ref.fa
+# List of RefSeq names from fasta file (may include version) saved in:             flaviviridae-classify-build.dnaorg_classify.ref.fa.list
+# Library of HMMs of RefSeqs saved in:                                             flaviviridae-classify-build.dnaorg_classify.hmm
+# HMM press index file (.h3m) saved in:                                            flaviviridae-classify-build.dnaorg_classify.hmm.h3m
+# HMM press index file (.h3f) saved in:                                            flaviviridae-classify-build.dnaorg_classify.hmm.h3f
+# HMM press index file (.h3p) saved in:                                            flaviviridae-classify-build.dnaorg_classify.hmm.h3p
+# HMM press index file (.h3i) saved in:                                            flaviviridae-classify-build.dnaorg_classify.hmm.h3i

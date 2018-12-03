@@ -1,0 +1,12 @@
+>Feature ref|NC_001474.2|
+1	96	5'UTR
+97	10272	gene
+			gene	flavivirus polyprotein gene
+			locus_tag	DENV_gp1
+			db_xref	GeneID:1494449
+97	10272	CDS
+			product	flavivirus polyprotein
+			protein_id	ref|NP_056776.2|
+			note	contains structural proteins, C-prM/M-E and non-structural proteins, NS1-NS2A/B-NS3-NS4A/B-NS5
+10273	10723	3'UTR
+
