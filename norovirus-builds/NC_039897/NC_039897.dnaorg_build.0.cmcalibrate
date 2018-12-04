@@ -1,0 +1,28 @@
+# cmcalibrate :: fit exponential tails for CM E-values
+# INFERNAL 1.1.2 (July 2016)
+# Copyright (C) 2016 Howard Hughes Medical Institute.
+# Freely distributed under a BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# CM file:                                     /panfs/pan1.be-md.ncbi.nlm.nih.gov/dnaorg/virseqannot/dnaorg-build-directories/norovirus-builds/NC_039897/NC_039897.dnaorg_build.0.cm
+# total sequence length to search per mode:    0.04 Mb
+# number of worker threads:                    0 [--cpu]
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#
+# Calibrating CM(s):
+#
+#                        predicted                                                   actual   
+#                       running time              percent complete                running time
+# model name            (hr:min:sec)  [........25........50........75..........]  (hr:min:sec)
+# --------------------  ------------  ------------------------------------------  ------------
+  NC_039897.ref.mp.1        00:45:13  [========================================]      00:43:52
+#
+# Calibration summary statistics:
+#
+#                           exponential tail fit mu        exponential tail fit lambda         total number of hits      
+#                       -------------------------------  -------------------------------  -------------------------------
+# model name            glc cyk glc ins loc cyk loc ins  glc cyk glc ins loc cyk loc ins  glc cyk glc ins loc cyk loc ins
+# --------------------  ------- ------- ------- -------  ------- ------- ------- -------  ------- ------- ------- -------
+  NC_039897.ref.mp.1    -212.02  -43.97   -7.12   -5.20    0.071   0.120   0.653   0.715       27      27   15443   12032
+#
+# CPU time: 2700.64u 10.30s 00:45:10.94 Elapsed: 00:45:11.43
+[ok]
