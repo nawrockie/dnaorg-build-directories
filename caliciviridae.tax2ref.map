@@ -1,0 +1,44 @@
+# dnaorg_classify.pl --ecmap input file
+# Each line must contain two space-delimited fields:
+# Field 1: taxonomic name, e.g. 'GII'
+# Field 2: comma-separated list of model names that correspond to the
+#          taxonomic name field 1 with no whitespace,
+#          e.g. "NC_001959,NC_031324"
+# #-prefixed lines are comment lines, and ignored
+#
+# Norovirus RefSeqs
+GI   NC_001959,NC_031324
+GII  NC_039475,NC_039476,NC_039477,NC_029646
+GIII NC_029645
+GIV  NC_029647
+GV   NC_008311
+# Vesivirus
+Rabbit_vesivirus            NC_008580
+Steller_sea_lion_vesivirus  NC_011050
+Vesivirus_ferret_badger     NC_027122
+Hom-1_vesivirus             NC_034444
+# Sapoviruses
+Sapovirus_Mc10               NC_010624
+Sapovirus_Hu                 NC_006269,NC_027026
+Sapovirus_C12                NC_006554
+Bat_sapovirus                NC_017936,NC_033776
+Porcine_enteric_sapovirus    NC_000940
+# Other caliciviruses
+Canine_calicivirus                   NC_004542
+Calicivirus_strain_NB                NC_004064
+Walrus_calicivirus                   NC_004541
+Feline_calicivirus                   NC_001481
+Calicivirus_isolate_TCG              NC_006875
+Rabbit_calicivirus                   NC_011704
+Calicivirus_pig/AB90/CAN             NC_012699
+Mink_calicivirus                     NC_019712
+Atlantic_salmon_calicivirus          NC_024031
+Goose_calicivirus                    NC_024078
+Bovine_calicivirus                   NC_030793
+Chicken_calicivirus                  NC_033081
+Fathead_minnow_calicivirus           NC_035675
+Vesicular_exanthema_of_swine_virus   NC_002551
+European_brown_hare_syndrome_virus   NC_002615
+Rabbit_hemorrhagic_disease_virus-FRG NC_001543
+Newbury_agent_1_virus                NC_007916
+San_Miguel_sea_lion_virus_8          NC_025676
