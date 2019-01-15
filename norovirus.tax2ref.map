@@ -1,0 +1,14 @@
+# dnaorg_classify.pl --ecmap input file
+# Each line must contain two space-delimited fields:
+# Field 1: taxonomic name, e.g. 'GII'
+# Field 2: comma-separated list of model names that correspond to the
+#          taxonomic name field 1 with no whitespace,
+#          e.g. "NC_001959,NC_031324"
+# #-prefixed lines are comment lines, and ignored
+#
+# Norovirus RefSeqs
+GI   NC_001959,NC_031324
+GII  NC_039475,NC_039476,NC_039477,NC_029646
+GIII NC_029645
+GIV  NC_029647
+GV   NC_008311
