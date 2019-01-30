@@ -8,9 +8,9 @@ ALPH     RNA
 RF       no
 CONS     yes
 MAP      yes
-DATE     Thu Nov 29 13:40:19 2018
-COM      [1] /panfs/pan1/dnaorg/virseqannot/code/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_001477/NC_001477.dnaorg_build.13.cm -
-COM      [2] /panfs/pan1/dnaorg/virseqannot/code/infernal-1.1.2/src/cmcalibrate --cpu 4 -L 0.16 --tailp 0.30 /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_1129_virus_dengue_and_noro_g1_alt_models/dnaorg-build-directories/dengue-builds/NC_001477/NC_001477.dnaorg_build.13.cm
+DATE     Wed Jan 30 12:50:14 2019
+COM      [1] /panfs/pan1/infernal/notebook/19_0129_virus_dnaorg_one_model_implementation/infernal-dev/src/cmbuild -F --informat stockholm NC_001477/NC_001477.dnaorg_build.13.cm -
+COM      [2] /panfs/pan1/infernal/notebook/19_0129_virus_dnaorg_one_model_implementation/infernal-dev/src/cmcalibrate --cpu 4 -L 0.16 --tailp 0.30 /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/19_0130_virus_dnaorg_dengue_new_models/dnaorg-build-directories/dengue-builds/NC_001477/NC_001477.dnaorg_build.13.cm
 PBEGIN   0.05
 PEND     0.05
 WBETA    1e-07
@@ -10834,11 +10834,12 @@ MM    no
 CONS  yes
 CS    yes
 MAP   no
-DATE  Thu Nov 29 13:40:29 2018
-COM   [1] /panfs/pan1/dnaorg/virseqannot/code/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_001477/NC_001477.dnaorg_build.13.cm -
-COM   [2] /panfs/pan1/dnaorg/virseqannot/code/infernal-1.1.2/src/cmbuild -F --informat stockholm NC_001477/NC_001477.dnaorg_build.13.cm -
+DATE  Wed Jan 30 12:50:24 2019
+COM   [1] /panfs/pan1/infernal/notebook/19_0129_virus_dnaorg_one_model_implementation/infernal-dev/src/cmbuild -F --informat stockholm NC_001477/NC_001477.dnaorg_build.13.cm -
+COM   [2] /panfs/pan1/infernal/notebook/19_0129_virus_dnaorg_one_model_implementation/infernal-dev/src/cmbuild -F --informat stockholm NC_001477/NC_001477.dnaorg_build.13.cm -
 NSEQ  1
 EFFN  1.000000
+CKSUM 3419626686
 STATS LOCAL MSV      -14.4434  0.69467
 STATS LOCAL VITERBI  -17.2771  0.69467
 STATS LOCAL FORWARD   -6.4826  0.69467

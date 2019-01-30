@@ -1,9 +1,9 @@
 # cmcalibrate :: fit exponential tails for CM E-values
 # INFERNAL 1.1.2 (July 2016)
 # Copyright (C) 2016 Howard Hughes Medical Institute.
-# Freely distributed under a BSD open source license.
+# Freely distributed under the BSD open source license.
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# CM file:                                     /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/18_1129_virus_dengue_and_noro_g1_alt_models/dnaorg-build-directories/dengue-builds/NC_001474/NC_001474.dnaorg_build.9.cm
+# CM file:                                     /panfs/pan1.be-md.ncbi.nlm.nih.gov/infernal/notebook/19_0130_virus_dnaorg_dengue_new_models/dnaorg-build-directories/dengue-builds/NC_001474/NC_001474.dnaorg_build.9.cm
 # total sequence length to search per mode:    0.04 Mb
 # number of worker threads:                    0 [--cpu]
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -14,7 +14,7 @@
 #                       running time              percent complete                running time
 # model name            (hr:min:sec)  [........25........50........75..........]  (hr:min:sec)
 # --------------------  ------------  ------------------------------------------  ------------
-  NC_001474.ref.mp.10       01:20:04  [========================================]      01:13:32
+  NC_001474.ref.mp.10       01:18:33  [========================================]      01:12:24
 #
 # Calibration summary statistics:
 #
@@ -24,5 +24,5 @@
 # --------------------  ------- ------- ------- -------  ------- ------- ------- -------  ------- ------- ------- -------
   NC_001474.ref.mp.10   -359.08 -118.37   -7.69   -6.66    0.039   0.027   1.053   0.718       17      18   21297   18069
 #
-# CPU time: 4591.70u 25.31s 01:16:57.01 Elapsed: 01:16:57.58
+# CPU time: 4519.85u 20.46s 01:15:40.31 Elapsed: 01:15:44.38
 [ok]

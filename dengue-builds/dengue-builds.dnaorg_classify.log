@@ -1,14 +1,14 @@
 # dnaorg_classify.pl :: classify sequences using an HMM library of RefSeqs
-# dnaorg 0.38 (Nov 2018)
+# dnaorg 0.44 (Jan 2019)
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# date:       Thu Nov 29 13:27:54 2018
-# $DNAORGDIR: /panfs/pan1/dnaorg/virseqannot/code
+# date:       Wed Jan 30 12:48:54 2019
+# $DNAORGDIR: /panfs/pan1/infernal/notebook/19_0129_virus_dnaorg_one_model_implementation
 #
 # REQUIRED name for output directory to create is <s>:  dengue-builds [--dirout]
 # build an HMM library for seqs in <s>, then exit:      dengue_refseq_list.txt [--onlybuild]
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# Parsing RefSeq list                                                    ... done. [0.2 seconds]
-# Creating RefSeq HMM Library                                            ... done. [43.2 seconds]
+# Parsing RefSeq list                                                    ... done. [0.0 seconds]
+# Creating RefSeq HMM Library                                            ... done. [18.6 seconds]
 #
 # Output printed to screen saved in:                                     dengue-builds.dnaorg_classify.log
 # List of executed commands saved in:                                    dengue-builds.dnaorg_classify.cmd
@@ -20,7 +20,7 @@
 #
 # All output files created in directory ./dengue-builds/
 #
-# CPU time:  00:00:44.35
+# CPU time:  00:00:18.69
 #            hh:mm:ss
 # 
 # DNAORG-SUCCESS

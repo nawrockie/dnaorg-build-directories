@@ -1,7 +1,7 @@
 # cmbuild :: covariance model construction from multiple sequence alignments
 # INFERNAL 1.1.2 (July 2016)
 # Copyright (C) 2016 Howard Hughes Medical Institute.
-# Freely distributed under a BSD open source license.
+# Freely distributed under the BSD open source license.
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # CM file:                                            NC_001475/NC_001475.dnaorg_build.7.cm
 # alignment file:                                     -
@@ -14,4 +14,4 @@
 # ------ -------------------- -------- -------- ------ ----- ---- ---- ----- ----- -----------
        1 NC_001475.ref.mp.8          1     1.00    654   654    0    0 0.343 0.343 
 #
-# CPU time: 5.81u 0.02s 00:00:05.82 Elapsed: 00:00:05.89
+# CPU time: 7.04u 0.02s 00:00:07.06 Elapsed: 00:00:07.10
