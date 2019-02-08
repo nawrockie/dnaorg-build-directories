@@ -2,7 +2,7 @@
 #
 # If you're updating the models. Do these steps first:
 # > mv dengue-builds old-dengue-builds
-# > cp old-dengue-builds/noro-00RECREATE.sh .
+# > cp old-dengue-builds/dengue-00RECREATE.sh .
 # > cp old-dengue-builds/dengue_refseq_list.txt .
 # 
 # Step 1: create the dengue-builds directory using dnaorg_classify.pl --onlybuild:

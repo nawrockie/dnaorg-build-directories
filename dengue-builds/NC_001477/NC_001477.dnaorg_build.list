@@ -5,8 +5,9 @@
 # Input file for esl-fetch-cds.pl saved in:                                                                              NC_001477.dnaorg_build.ref.fg.idfetch.in
 # Sequence file (fetched with esl-fetch-cds.pl) saved in:                                                                NC_001477.dnaorg_build.ref.fg.fa
 # Stockholm alignment file with reference features saved in:                                                             NC_001477.dnaorg_build.ref.all.stk
+# protein FASTA file with proteins for feature 14 saved in:                                                              NC_001477.dnaorg_build.f14.prot.fa
+# protein FASTA file with proteins for all features saved in:                                                            NC_001477.dnaorg_build.all.prot.fa
 # efetch output with protein information saved in:                                                                       NC_001477.dnaorg_build.prot.efetch
-# protein FASTA file saved in:                                                                                           NC_001477.dnaorg_build.prot.fa
 # index file for the CM, created by cmpress saved in:                                                                    NC_001477.dnaorg_build.0.cm.i1m
 # index file for the CM, created by cmpress saved in:                                                                    NC_001477.dnaorg_build.0.cm.i1i
 # index file for the CM, created by cmpress saved in:                                                                    NC_001477.dnaorg_build.0.cm.i1f

@@ -1,11 +1,12 @@
 >Feature ref|NC_001475.2|
 1	94	5'UTR
 95	10267	gene
-			gene	flavivirus polyprotein gene
+			gene	POLY
+			gene_syn	polyprotein gene
 			locus_tag	DV3_gp1
 			db_xref	GeneID:5075727
 95	10267	CDS
-			product	flavivirus polyprotein
+			product	polyprotein
 			protein_id	ref|YP_001621843.1|
 10268	10707	3'UTR
 
